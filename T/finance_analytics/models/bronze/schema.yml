@@ -1,0 +1,13 @@
+# models/bronze/schema.yml
+
+version: 2
+
+sources:
+  - name: bronze
+    database: FINANCE_ANALYTICS
+    schema: bronze
+    tables:
+      - name: stock_prices
+      - name: company_fundamentals
+      - name: economic_indicators
+      - name: stock_news_sentiment

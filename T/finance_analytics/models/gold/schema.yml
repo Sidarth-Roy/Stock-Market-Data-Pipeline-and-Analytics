@@ -1,0 +1,125 @@
+version: 2
+
+sources:
+  - name: DBT_SILVER
+    database: FINANCE_ANALYTICS
+    schema: DBT_SILVER
+    tables:
+      - name: STOCK_PRICE_FORECAST
+
+models:
+  - name: stock_daily_analytics
+    description: Daily stock analytics including price changes and percentage changes.
+    tags: [gold, analytics]
+    columns:
+      - name: DATE
+        description: Date of the stock data.
+        tests: [not_null]
+      - name: SYMBOL
+        description: Ticker symbol of the company.
+        tests: [not_null]
+      - name: DAILY_PERCENT_CHANGE
+        description: Daily percent change in stock price.
+
+  - name: stock_news_sentiment_summary
+    description: Aggregated sentiment statistics for stock-related news articles.
+    tags: [gold, sentiment]
+    columns:
+      - name: NEWS_DATE
+        description: Date of the news articles.
+        tests: [not_null]
+      - name: SYMBOL
+        description: Ticker symbol of the company.
+        tests: [not_null]
+      - name: ARTICLE_COUNT
+        description: Total number of articles for the given date and symbol.
+
+  - name: economic_indicators_latest
+    description: Latest values of key economic indicators.
+    tags: [gold, economics]
+    columns:
+      - name: SERIES_ID
+        description: Identifier for the economic series.
+        tests: [not_null, unique]
+      - name: LATEST_VALUE
+        description: Most recent value of the economic indicator.
+
+  - name: stock_sentiment_kpi
+    description: Stock prices with associated sentiment KPIs.
+    tags: [gold, sentiment, kpi]
+    columns:
+      - name: SYMBOL
+        description: Company symbol.
+        tests: [not_null]
+      - name: TITLE_SENTIMENT_CLASS
+        description: Classified sentiment from news titles.
+
+  - name: dim_company
+    description: Dimension table for company metadata.
+    tags: [gold, dimension]
+    columns:
+      - name: SYMBOL
+        description: Unique ticker symbol.
+        tests: [not_null, unique]
+      - name: COMPANY_NAME
+        description: Name of the company.
+
+  - name: dim_economic_series
+    description: Dimension table listing economic series names and IDs.
+    tags: [gold, dimension]
+    columns:
+      - name: SERIES_ID
+        description: Economic series identifier.
+        tests: [not_null, unique]
+
+  - name: fact_stock_daily
+    description: Fact table for daily stock price metrics.
+    tags: [gold, fact]
+    columns:
+      - name: DATE
+        description: Date of the stock data.
+        tests: [not_null]
+      - name: SYMBOL
+        description: Ticker symbol.
+        tests: [not_null]
+
+  - name: fact_news_sentiment
+    description: Fact table for aggregated news sentiment metrics.
+    tags: [gold, fact, sentiment]
+    columns:
+      - name: NEWS_DATE
+        description: Date of the news.
+        tests: [not_null]
+      - name: SYMBOL
+        description: Ticker symbol.
+        tests: [not_null]
+
+  - name: fact_economic_indicators
+    description: Fact table containing economic indicator values over time.
+    tags: [gold, fact, economics]
+    columns:
+      - name: SERIES_ID
+        description: Identifier of the economic series.
+        tests: [not_null]
+      - name: VALUE
+        description: Value of the economic indicator.
+
+  - name: vw_company_performance_daily
+    description: View for combining company performance with sentiment metrics.
+    tags: [gold, view]
+    columns:
+      - name: SYMBOL
+        description: Ticker symbol.
+        tests: [not_null]
+      - name: DATE
+        description: Date of the performance data.
+
+  - name: vw_sentiment_classification
+    description: Classified sentiment (positive, negative, neutral) for stock news.
+    tags: [gold, sentiment]
+    columns:
+      - name: SYMBOL
+        description: Ticker symbol.
+        tests: [not_null]
+      - name: TITLE_SENTIMENT_CLASS
+        description: Classified sentiment from the title.

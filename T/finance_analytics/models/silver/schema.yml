@@ -1,0 +1,36 @@
+version: 2
+
+models:
+  - name: stock_prices_cleaned
+    description: "Cleaned stock prices from Alpha Vantage"
+    columns:
+      - name: SYMBOL
+        tests: [not_null]
+      - name: DATE
+        tests: [not_null]
+      - name: OPEN
+        tests: [not_null]  
+
+  - name: company_fundamentals_cleaned
+    description: "Cleaned company metadata from FMP"
+    columns:
+      - name: SYMBOL
+        tests: [unique, not_null]
+
+  - name: economic_indicators_cleaned
+    description: "Filtered FRED economic indicators"
+    columns:
+      - name: SERIES_ID
+        tests: [not_null]
+      - name: VALUE
+        tests: [not_null]
+
+  - name: stock_news_sentiment_cleaned
+    description: "Parsed news data from NewsAPI"
+    columns:
+      - name: url
+        tests: [unique, not_null]
+      - name: TITLE
+        tests: [not_null]
+      - name: PUBLISHEDAT
+        tests: [not_null]

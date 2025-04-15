@@ -1,0 +1,4000 @@
+[
+  { 
+    "series_id": "USSLIND", 
+    "name": "Leading Index for the United States" },
+  {
+    "series_id": "USPHCI",
+    "name": "Coincident Economic Activity Index for the United States"
+  },
+  {
+    "series_id": "FEDTARMD",
+    "name": "FOMC Summary of Economic Projections for the Fed Funds Rate, Median"
+  },
+  { 
+    "series_id": "WEI", 
+    "name": "Weekly Economic Index (Lewis-Mertens-Stock)" 
+  },
+  {
+    "series_id": "USEPUINDXD",
+    "name": "Economic Policy Uncertainty Index for United States"
+  },
+  {
+    "series_id": "U6RATE",
+    "name": "Total Unemployed, Plus All Persons Marginally Attached to the Labor Force, Plus Total Employed Part Time for Economic Reasons, as a Percent of the Civilian Labor Force Plus All Persons Marginally Attached to the Labor Force (U-6)"
+  },
+  {
+    "series_id": "USEPUINDXM",
+    "name": "Economic Policy Uncertainty Index for United States"
+  },
+  {
+    "series_id": "U6RATENSA",
+    "name": "Total Unemployed, Plus All Persons Marginally Attached to the Labor Force, Plus Total Employed Part Time for Economic Reasons, as a Percent of the Civilian Labor Force Plus All Persons Marginally Attached to the Labor Force (U-6)"
+  },
+  {
+    "series_id": "STLENI",
+    "name": "St. Louis Fed Economic News Index: Real GDP Nowcast"
+  },
+  {
+    "series_id": "GEPUCURRENT",
+    "name": "Global Economic Policy Uncertainty Index: Current Price Adjusted GDP"
+  },
+  {
+    "series_id": "GDPC1CTM",
+    "name": "FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Central Tendency, Midpoint"
+  },
+  { 
+    "series_id": "BBKMLEIX", 
+    "name": "Brave-Butters-Kelley Leading Index" 
+  },
+  {
+    "series_id": "BBKQLEIX",
+    "name": "Brave-Butters-Kelley Leading Index" 
+  },
+  { 
+    "series_id": "PAKDGDPGDPPT",
+    "name": "Total External Debt for Pakistan" 
+  },
+  {
+    "series_id": "LNS12032194",
+    "name": "Employment Level - Part-Time for Economic Reasons, All Industries"
+  },
+  {
+    "series_id": "FEDTARMDLR",
+    "name": "Longer Run FOMC Summary of Economic Projections for the Fed Funds Rate, Median"
+  },
+  {
+    "series_id": "CHNMAINLANDEPU",
+    "name": "Economic Policy Uncertainty Index: Mainland Papers for China"
+  },
+  {
+    "series_id": "USASARTMISMEI",
+    "name": "Production, Sales, Work Started and Orders: Retail Trade Volume: Economic Activity: Retail Trade, Except of Motor Vehicles and Motorcycles for United States"
+  },
+  {
+    "series_id": "GDPC1MD",
+    "name": "FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Median"
+  },
+  {
+    "series_id": "SAUPZPIOILBEGUSD",
+    "name": "Breakeven Fiscal Oil Price for Saudi Arabia"
+  },
+  {
+    "series_id": "WLEMUINDXD",
+    "name": "Equity Market-related Economic Uncertainty Index"
+  },
+  {
+    "series_id": "USASARTAISMEI",
+    "name": "Production, Sales, Work Started and Orders: Retail Trade Volume: Economic Activity: Retail Trade, Except of Motor Vehicles and Motorcycles for United States"
+  },
+  {
+    "series_id": "PIEATI01CNA661N",
+    "name": "Producer Prices Index: Economic Activities: Industrial Activities: Total for China"
+  },
+  {
+    "series_id": "PRMNTO01USQ661N",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Manufacturing for United States"
+  },
+  {
+    "series_id": "PCECTPICTM",
+    "name": "FOMC Summary of Economic Projections for the Personal Consumption Expenditures Inflation Rate, Central Tendency, Midpoint"
+  },
+  {
+    "series_id": "SAUNGDPMOMBD",
+    "name": "Crude Oil Production for Saudi Arabia"
+  },
+  {
+    "series_id": "USAPROMANMISMEI",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Manufacturing for United States"
+  },
+  {
+    "series_id": "PRMNTO01USA661N",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Manufacturing for United States"
+  },
+  {
+    "series_id": "IRNNXGOCMBD",
+    "name": "Crude Oil Exports for Iran, Islamic Republic of"
+  },
+  {
+    "series_id": "USAPROMANQISMEI",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Manufacturing for United States"
+  },
+  {
+    "series_id": "USAPROMANAISMEI",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Manufacturing for United States"
+  },
+  {
+    "series_id": "ZAFNGDPRPCPPPT",
+    "name": "Real Gross Domestic Product for South Africa"
+  },
+  {
+    "series_id": "DEUPROINDMISMEI",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Industry (Except Construction) for Germany"
+  },
+  {
+    "series_id": "DEUPROINDAISMEI",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Industry (Except Construction) for Germany"
+  },
+  {
+    "series_id": "UNRATEMD",
+    "name": "FOMC Summary of Economic Projections for the Civilian Unemployment Rate, Median"
+  },
+  {
+    "series_id": "LNS12032195",
+    "name": "Employment Level - Part-Time for Economic Reasons, Slack Work or Business Conditions, All Industries"
+  },
+  {
+    "series_id": "PRINTO01DEQ661N",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Industry (Except Construction) for Germany"
+  },
+  {
+    "series_id": "DEUPROINDQISMEI",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Industry (Except Construction) for Germany"
+  },
+  { 
+    "series_id": "IGREA", 
+    "name": "Index of Global Real Economic Activity" 
+  },
+  {
+    "series_id": "PRINTO01DEA661N",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Industry (Except Construction) for Germany"
+  },
+  {
+    "series_id": "CHNPIEATI01GYM",
+    "name": "Producer Prices Index: Economic Activities: Industrial Activities: Total for China"
+  },
+  {
+    "series_id": "LCEAMN01MXM661S",
+    "name": "Hourly Earnings: Earnings: Economic Activity: Manufacturing: Total Economy for Mexico"
+  },
+  {
+    "series_id": "FEDTARRL",
+    "name": "FOMC Summary of Economic Projections for the Fed Funds Rate, Range, Low"
+  },
+  {
+    "series_id": "USASACRMISMEI",
+    "name": "Production, Sales, Work Started and Orders: Passenger Car Registrations: Economic Activity: Wholesale and Retail Trade and Repair of Motor Vehicles and Motorcycles for United States"
+  },
+  {
+    "series_id": "CHNPIEATI01GYQ",
+    "name": "Producer Prices Index: Economic Activities: Industrial Activities: Total for China"
+  },
+  {
+    "series_id": "LCEAMN01MXQ661S",
+    "name": "Hourly Earnings: Earnings: Economic Activity: Manufacturing: Total Economy for Mexico"
+  },
+  {
+    "series_id": "LCEAMN01MXA661S",
+    "name": "Hourly Earnings: Earnings: Economic Activity: Manufacturing: Total Economy for Mexico"
+  },
+  { 
+    "series_id": "GDP", 
+    "name": "Gross Domestic Product" 
+  },
+  { 
+    "series_id": "GDPC1",
+    "name": "Real Gross Domestic Product" 
+  },
+  {
+    "series_id": "EPUMONETARY",
+    "name": "Economic Policy Uncertainty Index: Categorical Index: Monetary policy"
+  },
+  {
+    "series_id": "PRCNTO01CNQ661S",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Construction for China"
+  },
+  { 
+    "series_id": "A191RL1Q225SBEA", 
+    "name": "Real Gross Domestic Product" 
+  },
+  {
+    "series_id": "JPNPROINDMISMEI",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Industry (Except Construction) for Japan"
+  },
+  {
+    "series_id": "JPNPROINDQISMEI",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Industry (Except Construction) for Japan"
+  },
+  { 
+    "series_id": "GDPA", 
+    "name": "Gross Domestic Product" 
+  },
+  {
+    "series_id": "PRINTO01JPQ661N",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Industry (Except Construction) for Japan"
+  },
+  {
+    "series_id": "USAPRMNTO01IXOBM",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Manufacturing for United States"
+  },
+  {
+    "series_id": "PRCNTO01CNA661S",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Construction for China"
+  },
+  {
+    "series_id": "PRINTO01JPA661N",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Industry (Except Construction) for Japan"
+  },
+  {
+    "series_id": "JPNPROINDAISMEI",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Industry (Except Construction) for Japan"
+  },
+  { 
+    "series_id": "GDPCA", 
+    "name": "Real Gross Domestic Product" 
+  },
+  { 
+    "series_id": "A191RP1Q027SBEA", 
+    "name": "Gross Domestic Product" 
+  },
+  {
+    "series_id": "FEDTARRM",
+    "name": "FOMC Summary of Economic Projections for the Fed Funds Rate, Range, Midpoint"
+  },
+  {
+    "series_id": "GDPC1CTMLR",
+    "name": "Longer Run FOMC Summary of Economic Projections for the Growth Rate of Real Gross Domestic Product, Central Tendency, Midpoint"
+  },
+  {
+    "series_id": "AREPCPIPCHPT",
+    "name": "Consumer Price Inflation for United Arab Emirates"
+  },
+  {
+    "series_id": "EUEPUINDXM",
+    "name": "Economic Policy Uncertainty Index for Europe"
+  },
+  { 
+    "series_id": "NA000334Q",
+    "name": "Gross Domestic Product" 
+  },
+  { 
+    "series_id": "A191RO1Q156NBEA",
+    "name": "Real Gross Domestic Product" 
+  },
+  { 
+    "series_id": "A191RL1A225NBEA",
+    "name": "Real Gross Domestic Product" 
+  },
+  { 
+    "series_id": "ND000334Q",
+    "name": "Real Gross Domestic Product" 
+  },
+  { 
+    "series_id": "A191RP1A027NBEA",
+    "name": "Gross Domestic Product" 
+  },
+  { 
+    "series_id": "OB000334Q",
+    "name": "Real Gross Domestic Product" 
+  },
+  { 
+    "series_id": "NC000334Q",
+    "name": "Gross Domestic Product" 
+  },
+  { 
+    "series_id": "NB000334Q",
+    "name": "Real Gross Domestic Product" 
+  },
+  {
+    "series_id": "DEUPRINTO01IXOBM",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Industry (Except Construction) for Germany"
+  },
+  {
+    "series_id": "NGANGDPRPCPPPT",
+    "name": "Real Gross Domestic Product for Nigeria"
+  },
+  {
+    "series_id": "JCXFECTM",
+    "name": "FOMC Summary of Economic Projections for the Personal Consumption Expenditures less Food and Energy Inflation Rate, Central Tendency, Midpoint"
+  },
+  {
+    "series_id": "AREDGDPGDPPT",
+    "name": "Total External Debt for United Arab Emirates"
+  },
+  {
+    "series_id": "FEDTARCTM",
+    "name": "FOMC Summary of Economic Projections for the Fed Funds Rate, Central Tendency, Midpoint"
+  },
+  {
+    "series_id": "JPNPRINTO01IXOBM",
+    "name": "Production, Sales, Work Started and Orders: Production Volume: Economic Activity: Industry (Except Construction) for Japan"
+  },
+  {
+    "series_id": "GFDEGDQ188S",
+    "name": "Federal Debt: Total Public Debt as Percent of Gross Domestic Product"
+  },
+  { 
+    "series_id": "PCE",
+    "name": "Personal Consumption Expenditures" 
+  },
+  { 
+    "series_id": "PSAVERT",
+    "name": "Personal Saving Rate" 
+  },
+  { 
+    "series_id": "PCEC",
+    "name": "Personal Consumption Expenditures" 
+  },
+  { 
+    "series_id": "FEDFUNDS",
+    "name": "Federal Funds Effective Rate"
+  },
+  { 
+    "series_id": "PCECA",
+    "name": "Personal Consumption Expenditures" 
+  },
+  { 
+    "series_id": "DFF",
+    "name": "Federal Funds Effective Rate"
+   },
+  { 
+    "series_id": "NA000349Q",
+    "name": "Personal Consumption Expenditures" 
+  },
+  {
+    "series_id": "CPALTT01USM657N",
+    "name": "Consumer Price Index: All Items: Total for United States"
+  },
+  { 
+    "series_id": "NC000349Q",
+    "name": "Personal Consumption Expenditures"
+  },
+  { 
+    "series_id": "FF",
+    "name": "Federal Funds Effective Rate" 
+  },
+  {
+    "series_id": "PCEPI",
+    "name": "Personal Consumption Expenditures: Chain-type Price Index"
+  },
+  {
+    "series_id": "CPALTT01USQ657N",
+    "name": "Consumer Price Index: All Items: Total for United States"
+  },
+  {
+    "series_id": "USACPIALLMINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for United States"
+  },
+  { 
+    "series_id": "RIFSPFFNB", 
+    "name": "Federal Funds Effective Rate" 
+  },
+  {
+    "series_id": "CPALTT01USM659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for United States"
+  },
+  { 
+    "series_id": "RIFSPFFNA", 
+    "name": "Federal Funds Effective Rate" 
+  },
+  {
+    "series_id": "CPALTT01USM661S",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for United States"
+  },
+  {
+    "series_id": "CPALTT01USQ661S",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for United States"
+  },
+  {
+    "series_id": "CPALTT01USA661S",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for United States"
+  },
+  {
+    "series_id": "CPALTT01USA657N",
+    "name": "Consumer Price Index: All Items: Total for United States"
+  },
+  {
+    "series_id": "PCECTPI",
+    "name": "Personal Consumption Expenditures: Chain-type Price Index"
+  },
+  {
+    "series_id": "CPALTT01USQ659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for United States"
+  },
+  {
+    "series_id": "A939RX0Q048SBEA",
+    "name": "Real gross domestic product per capita"
+  },
+  {
+    "series_id": "USACPIALLAINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for United States"
+  },
+  { 
+    "series_id": "RIFSPFFNBWAW", 
+    "name": "Federal Funds Effective Rate" 
+  },
+  {
+    "series_id": "CPALTT01USA659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for United States"
+  },
+  {
+    "series_id": "USACPIALLQINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for United States"
+  },
+  { 
+    "series_id": "PCEC96", 
+    "name": "Real Personal Consumption Expenditures" 
+  },
+  {
+    "series_id": "PCEPILFE",
+    "name": "Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index)"
+  },
+  { 
+    "series_id": "PCECC96",
+    "name": "Real Personal Consumption Expenditures"
+  },
+  {
+    "series_id": "DPCERG3A086NBEA",
+    "name": "Personal Consumption Expenditures: Chain-type Price Index"
+  },
+  {
+    "series_id": "A091RC1Q027SBEA",
+    "name": "Federal government current expenditures: Interest payments"
+  },
+  { 
+    "series_id": "TOTALSA", 
+    "name": "Total Vehicle Sales" 
+  },
+  {
+    "series_id": "CPIAUCSL",
+    "name": "Consumer Price Index for All Urban Consumers: All Items in U.S. City Average"
+  },
+  {
+    "series_id": "DPCERL1Q225SBEA",
+    "name": "Real Personal Consumption Expenditures"
+  },
+  {
+    "series_id": "GDPDEF",
+    "name": "Gross Domestic Product: Implicit Price Deflator"
+  },
+  {
+    "series_id": "DPCERAM1M225NBEA",
+    "name": "Real Personal Consumption Expenditures"
+  },
+  { 
+    "series_id": "PCECCA", 
+    "name": "Real Personal Consumption Expenditures" 
+  },
+  { 
+    "series_id": "TOTALNSA", 
+    "name": "Total Vehicle Sales" 
+  },
+  {
+    "series_id": "BPCCRO1Q156NBEA",
+    "name": "Personal Consumption Expenditures Excluding Food and Energy (Chain-Type Price Index)"
+  },
+  {
+    "series_id": "A191RI1Q225SBEA",
+    "name": "Gross Domestic Product: Implicit Price Deflator"
+  },
+  { 
+    "series_id": "DSPIC96", 
+    "name": "Real Disposable Personal Income"
+  },
+  {
+    "series_id": "FYFSGDA188S",
+    "name": "Federal Surplus or Deficit [-] as Percent of Gross Domestic Product"
+  },
+  {
+    "series_id": "ND000349Q",
+    "name": "Real Personal Consumption Expenditures"
+  },
+  {
+    "series_id": "DPCERO1Q156NBEA",
+    "name": "Real Personal Consumption Expenditures"
+  },
+  {
+    "series_id": "DPCERL1A225NBEA",
+    "name": "Real Personal Consumption Expenditures"
+  },
+  {
+    "series_id": "DPCCRG3A086NBEA",
+    "name": "Personal consumption expenditures excluding food and energy (chain-type price index)"
+  },
+  {
+    "series_id": "NB000349Q",
+    "name": "Real Personal Consumption Expenditures"
+  },
+  {
+    "series_id": "NA000308Q",
+    "name": "Federal government current expenditures: Interest payments"
+  },
+  {
+    "series_id": "OB000349Q",
+    "name": "Real Personal Consumption Expenditures"
+  },
+  {
+    "series_id": "A191RI1A225NBEA",
+    "name": "Gross Domestic Product: Implicit Price Deflator"
+  },
+  { 
+    "series_id": "DPIC96",
+    "name": "Real Disposable Personal Income" 
+  },
+  { 
+    "series_id": "A067RO1Q156NBEA",
+    "name": "Real Disposable Personal Income" 
+  },
+  { 
+    "series_id": "A067RX1A020NBEA",
+    "name": "Real disposable personal income" 
+  },
+  { 
+    "series_id": "A067RL1Q156SBEA",
+    "name": "Real Disposable Personal Income" 
+  },
+  { 
+    "series_id": "A067RL1A156NBEA",
+    "name": "Real Disposable Personal Income" 
+  },
+  { 
+    "series_id": "PMSAVE",
+    "name": "Personal Saving" 
+  },
+  { 
+    "series_id": "PSAVE",
+    "name": "Personal Saving" },
+  {
+    "series_id": "MABMM301USM189S",
+    "name": "Monetary Aggregates and Their Components: Broad Money and Components: M3 for United States"
+  },
+  { 
+    "series_id": "A071RC1A027NBEA",
+    "name": "Personal saving" 
+  },
+  {
+    "series_id": "CP",
+    "name": "Corporate Profits After Tax (without IVA and CCAdj)"
+  },
+  {
+    "series_id": "DPCCRV1Q225SBEA",
+    "name": "Personal Consumption Expenditures (PCE) Excluding Food and Energy (Chain-Type Price Index)"
+  },
+  {
+    "series_id": "W006RC1Q027SBEA",
+    "name": "Federal government current tax receipts"
+  },
+  {
+    "series_id": "FGEXPND",
+    "name": "Federal Government: Current Expenditures"
+  },
+  {
+    "series_id": "MABMM301USA657S",
+    "name": "Monetary Aggregates and Their Components: Broad Money and Components: M3 for United States"
+  },
+  { 
+    "series_id": "POPTHM",
+    "name": "Population" 
+  },
+  {
+    "series_id": "USREC",
+    "name": "NBER based Recession Indicators for the United States from the Period following the Peak through the Trough"
+  },
+  {
+    "series_id": "DSPI",
+    "name": "Disposable Personal Income" 
+  },
+  {
+    "series_id": "GFDGDPA188S",
+    "name": "Gross Federal Debt as Percent of Gross Domestic Product"
+  },
+  {
+    "series_id": "MABMM301USM657S",
+    "name": "Monetary Aggregates and Their Components: Broad Money and Components: M3 for United States"
+  },
+  {
+    "series_id": "DPCCRV1A225NBEA",
+    "name": "Personal Consumption Expenditures (PCE) Excluding Food and Energy (chain-type price index)"
+  },
+  {
+    "series_id": "USRECD",
+    "name": "NBER based Recession Indicators for the United States from the Period following the Peak through the Trough"
+  },
+  {
+    "series_id": "MABMM301USQ189S",
+    "name": "Monetary Aggregates and Their Components: Broad Money and Components: M3 for United States"
+  },
+  {
+    "series_id": "IRLTLT01USM156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for United States"
+  },
+  { 
+    "series_id": "DPI",
+    "name": "Disposable Personal Income" 
+  },
+  {
+    "series_id": "MABMM301USA189S",
+    "name": "Monetary Aggregates and Their Components: Broad Money and Components: M3 for United States"
+  },
+  {
+    "series_id": "MABMM301USQ657S",
+    "name": "Monetary Aggregates and Their Components: Broad Money and Components: M3 for United States"
+  },
+  { 
+    "series_id": "B230RC0A052NBEA",
+    "name": "Population" 
+  },
+  { 
+    "series_id": "B230RC0Q173SBEA",
+    "name": "Population" 
+  },
+  { 
+    "series_id": "GDI",
+    "name": "Gross Domestic Income" 
+  },
+  {
+    "series_id": "A229RX0",
+    "name": "Real Disposable Personal Income: Per Capita"
+  },
+  {
+    "series_id": "USRECQ",
+    "name": "NBER based Recession Indicators for the United States from the Period following the Peak through the Trough"
+  },
+  { 
+    "series_id": "A261RX1Q020SBEA",
+    "name": "Real gross domestic income"
+  },
+  { 
+    "series_id": "CIVPART", 
+    "name": "Labor Force Participation Rate" 
+  },
+  {
+    "series_id": "W006RC1A027NBEA",
+    "name": "Federal government current tax receipts"
+  },
+  { 
+    "series_id": "A067RC1A027NBEA",
+    "name": "Disposable personal income"
+  },
+  {
+    "series_id": "NA000327Q",
+    "name": "Federal government current tax receipts"
+  },
+  { 
+    "series_id": "A261RL1Q225SBEA",
+    "name": "Real Gross Domestic Income" 
+  },
+  {
+    "series_id": "NA000283Q",
+    "name": "Federal Government: Current Expenditures"
+  },
+  {
+    "series_id": "IRLTLT01USQ156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for United States"
+  },
+  { 
+    "series_id": "A067RP1Q027SBEA",
+    "name": "Disposable Personal Income" 
+  },
+  { 
+    "series_id": "A067RP1A027NBEA",
+    "name": "Disposable Personal Income" 
+  },
+  { 
+    "series_id": "PI",
+    "name": "Personal Income" 
+  },
+  {
+    "series_id": "CORESTICKM159SFRBATL",
+    "name": "Sticky Price Consumer Price Index less Food and Energy"
+  },
+  { 
+    "series_id": "PAYEMS", 
+    "name": "All Employees, Total Nonfarm"
+  },
+  {
+    "series_id": "IRLTLT01USA156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for United States"
+  },
+  {
+    "series_id": "A229RX0A048NBEA",
+    "name": "Real Disposable Personal Income: Per Capita"
+  },
+  { 
+    "series_id": "A261RO1Q156NBEA",
+    "name": "Real Gross Domestic Income"
+  },
+  {
+    "series_id": "USALOLITONOSTSAM",
+    "name": "Composite Leading Indicators: Composite Leading Indicator (CLI) Normalized for United States"
+  },
+  {
+    "series_id": "ALTSALES",
+    "name": "Light Weight Vehicle Sales: Autos and Light Trucks"
+  },
+  { 
+    "series_id": "GPDI",
+    "name": "Gross Private Domestic Investment"
+  },
+  { 
+    "series_id": "AUINSA",
+    "name": "Domestic Auto Inventories" 
+  },
+  {
+    "series_id": "FYONGDA188S",
+    "name": "Federal Net Outlays as Percent of Gross Domestic Product"
+  },
+  {
+    "series_id": "A229RX0Q048SBEA",
+    "name": "Real Disposable Personal Income: Per Capita"
+  },
+  {
+    "series_id": "HTRUCKSSAAR",
+    "name": "Motor Vehicle Retail Sales: Heavy Weight Trucks"
+  },
+  { 
+    "series_id": "PINCOME",
+    "name": "Personal Income" 
+  },
+  { 
+    "series_id": "GDIA",
+    "name": "Gross Domestic Income" 
+  },
+  { 
+    "series_id": "NA000254Q",
+    "name": "Gross Domestic Income" 
+  },
+  { 
+    "series_id": "A261RL1A225NBEA",
+    "name": "Real Gross Domestic Income" 
+  },
+  { 
+    "series_id": "A261RX1A020NBEA",
+    "name": "Real gross domestic income" 
+  },
+  { 
+    "series_id": "GPDIC1",
+    "name": "Real Gross Private Domestic Investment" 
+  },
+  {
+    "series_id": "FYOIGDA188S",
+    "name": "Federal Outlays: Interest as Percent of Gross Domestic Product"
+  },
+  { 
+    "series_id": "GNP",
+    "name": "Gross National Product" 
+  },
+  {
+    "series_id": "PCEDG",
+    "name": "Personal Consumption Expenditures: Durable Goods"
+  },
+  {
+    "series_id": "CORESTICKM158SFRBATL",
+    "name": "Sticky Price Consumer Price Index less Food and Energy"
+  },
+  { 
+    "series_id": "PAYNSA",
+    "name": "All Employees, Total Nonfarm"
+  },
+  { 
+    "series_id": "A065RC1A027NBEA",
+    "name": "Personal income" 
+  },
+  {
+    "series_id": "CORESTICKM679SFRBATL",
+    "name": "Sticky Price Consumer Price Index less Food and Energy"
+  },
+  {
+    "series_id": "CORESTICKM157SFRBATL",
+    "name": "Sticky Price Consumer Price Index less Food and Energy"
+  },
+  {
+    "series_id": "PCDG",
+    "name": "Personal Consumption Expenditures: Durable Goods"
+  },
+  {
+    "series_id": "HTRUCKSNSA",
+    "name": "Motor Vehicle Retail Sales: Heavy Weight Trucks"
+  },
+  {
+    "series_id": "HTRUCKSSA",
+    "name": "Motor Vehicle Retail Sales: Heavy Weight Trucks"
+  },
+  {
+    "series_id": "FYFRGDA188S",
+    "name": "Federal Receipts as Percent of Gross Domestic Product"
+  },
+  { 
+    "series_id": "GPDIA",
+    "name": "Gross Private Domestic Investment"
+  },
+  {
+    "series_id": "LFWA64TTUSM647S",
+    "name": "Infra-Annual Labor Statistics: Working-Age Population Total: From 15 to 64 Years for United States"
+  },
+  {
+    "series_id": "BOPGSTB",
+    "name": "Trade Balance: Goods and Services, Balance of Payments Basis"
+  },
+  { 
+    "series_id": "NA000335Q",
+    "name": "Gross Private Domestic Investment" 
+  },
+  { 
+    "series_id": "NC000335Q",
+    "name": "Gross Private Domestic Investment"
+  },
+  {
+    "series_id": "A006RL1Q225SBEA",
+    "name": "Real Gross Private Domestic Investment"
+  },
+  { 
+    "series_id": "GNPA",
+    "name": "Gross National Product" 
+  },
+  {
+    "series_id": "GBRCPIALLMINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for United Kingdom"
+  },
+  { 
+    "series_id": "GPDICA",
+    "name": "Real Gross Private Domestic Investment"
+ },
+  {
+    "series_id": "B006RO1Q156NBEA",
+    "name": "Real Gross Private Domestic Investment"
+  },
+  {
+    "series_id": "PCDGA",
+    "name": "Personal Consumption Expenditures: Durable Goods"
+  },
+  {
+    "series_id": "USACPALTT01IXNBM",
+    "name": "Consumer Price Index: All Items: Total for United States"
+  },
+  { 
+    "series_id": "A001RP1A027NBEA", 
+    "name": "Gross National Product" 
+  },
+  {
+    "series_id": "NC000346Q",
+    "name": "Personal Consumption Expenditures: Durable Goods"
+  },
+  {
+    "series_id": "A006RL1A225NBEA",
+    "name": "Real Gross Private Domestic Investment"
+  },
+  {
+    "series_id": "ND000335Q",
+    "name": "Real Gross Private Domestic Investment"
+  },
+  {
+    "series_id": "NA000346Q",
+    "name": "Personal Consumption Expenditures: Durable Goods"
+  },
+  { 
+    "series_id": "A001RP1Q027SBEA", 
+    "name": "Gross National Product" 
+  },
+  {
+    "series_id": "DPCERE1Q156NBEA",
+    "name": "Shares of gross domestic product: Personal consumption expenditures"
+  },
+  {
+    "series_id": "USACPALTT01IXNBQ",
+    "name": "Consumer Price Index: All Items: Total for United States"
+  },
+  {
+    "series_id": "NB000335Q",
+    "name": "Real Gross Private Domestic Investment"
+  },
+  {
+    "series_id": "OB000335Q",
+    "name": "Real Gross Private Domestic Investment"
+  },
+  { 
+    "series_id": "A792RC0Q052SBEA",
+     "name": "Personal income per capita" 
+  },
+  {
+    "series_id": "PCES",
+    "name": "Personal Consumption Expenditures: Services"
+  },
+  {
+    "series_id": "CPALTT01GBM659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for United Kingdom"
+  },
+  {
+    "series_id": "ACTLISCOUUS",
+    "name": "Housing Inventory: Active Listing Count in the United States"
+  },
+  {
+    "series_id": "CHNCPIALLMINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for China"
+  },
+  {
+    "series_id": "PCESV",
+    "name": "Personal Consumption Expenditures: Services"
+  },
+  {
+    "series_id": "CPALTT01CNM659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for China"
+  },
+  { 
+    "series_id": "A792RC0A052NBEA",
+    "name": "Personal income per capita" 
+  },
+  { 
+    "series_id": "NETEXP",
+    "name": "Net Exports of Goods and Services" 
+  },
+  {
+    "series_id": "M318501Q027NBEA",
+    "name": "Federal government budget surplus or deficit (-)"
+  },
+  { 
+    "series_id": "DAUPSA", 
+    "name": "Domestic Auto Production" 
+  },
+  {
+    "series_id": "CPALTT01GBQ657N",
+    "name": "Consumer Price Index: All Items: Total for United Kingdom"
+  },
+  {
+    "series_id": "CPALTT01CNM657N",
+    "name": "Consumer Price Index: All Items: Total for China"
+  },
+  {
+    "series_id": "GBRCPIALLQINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for United Kingdom"
+  },
+  {
+    "series_id": "CES0500000003",
+    "name": "Average Hourly Earnings of All Employees, Total Private"
+  },
+  {
+    "series_id": "CPALTT01GBM657N",
+    "name": "Consumer Price Index: All Items: Total for United Kingdom"
+  },
+  { 
+    "series_id": "JTSJOL", 
+    "name": "Job Openings: Total Nonfarm" 
+  },
+  {
+    "series_id": "LFWA64TTUSQ647S",
+    "name": "Infra-Annual Labor Statistics: Working-Age Population Total: From 15 to 64 Years for United States"
+  },
+  {
+    "series_id": "CPALTT01GBA657N",
+    "name": "Consumer Price Index: All Items: Total for United Kingdom"
+  },
+  {
+    "series_id": "LFWA64TTUSM647N",
+    "name": "Infra-Annual Labor Statistics: Working-Age Population Total: From 15 to 64 Years for United States"
+  },
+  {
+    "series_id": "CPALTT01GBQ659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for United Kingdom"
+  },
+  {
+    "series_id": "LFWA64TTUSA647N",
+    "name": "Infra-Annual Labor Statistics: Working-Age Population Total: From 15 to 64 Years for United States"
+  },
+  {
+    "series_id": "GBRCPIALLAINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for United Kingdom"
+  },
+  {
+    "series_id": "LFWA64TTUSA647S",
+    "name": "Infra-Annual Labor Statistics: Working-Age Population Total: From 15 to 64 Years for United States"
+  },
+  {
+    "series_id": "CPALTT01GBA659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for United Kingdom"
+  },
+  { 
+    "series_id": "W068RCQ027SBEA",
+    "name": "Government total expenditures" 
+  },
+  { 
+    "series_id": "AISRSA", 
+    "name": "Auto Inventory/Sales Ratio" 
+  },
+  { 
+    "series_id": "FYGFD", 
+    "name": "Gross Federal Debt" 
+  },
+  {
+    "series_id": "LFWA64TTUSQ647N",
+    "name": "Infra-Annual Labor Statistics: Working-Age Population Total: From 15 to 64 Years for United States"
+  },
+  {
+    "series_id": "CHNCPIALLQINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for China"
+  },
+  {
+    "series_id": "DPCERE1A156NBEA",
+    "name": "Shares of gross domestic product: Personal consumption expenditures"
+  },
+  {
+    "series_id": "A939RC0Q052SBEA",
+    "name": "Gross domestic product per capita"
+  },
+  {
+    "series_id": "JPNCPIALLMINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Japan"
+  },
+  {
+    "series_id": "CPALTT01CNQ657N",
+    "name": "Consumer Price Index: All Items: Total for China"
+  },
+  {
+    "series_id": "CPALTT01CNA657N",
+    "name": "Consumer Price Index: All Items: Total for China"
+  },
+  {
+    "series_id": "A939RC0A052NBEA",
+    "name": "Gross domestic product per capita"
+  },
+  {
+    "series_id": "PCESVA",
+    "name": "Personal Consumption Expenditures: Services"
+  },
+  {
+    "series_id": "CHNCPIALLAINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for China"
+  },
+  {
+    "series_id": "CPALTT01CNQ659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for China"
+  },
+  { 
+    "series_id": "DAUPNSA",
+    "name": "Domestic Auto Production" 
+  },
+  {
+    "series_id": "NC000350Q",
+    "name": "Personal Consumption Expenditures: Services"
+  },
+  {
+    "series_id": "CPALTT01CNA659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for China"
+  },
+  {
+    "series_id": "NA000350Q",
+    "name": "Personal Consumption Expenditures: Services"
+  },
+  {
+    "series_id": "M318501A027NBEA",
+    "name": "Federal government budget surplus or deficit (-)"
+  },
+  {
+    "series_id": "RPI",
+    "name": "Real Personal Income" 
+  },
+  {
+    "series_id": "IRLTLT01DEM156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Germany"
+  },
+  {
+    "series_id": "CPALTT01JPM659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Japan"
+  },
+  {
+    "series_id": "A019RC1A027NBEA",
+    "name": "Net exports of goods and services"
+  },
+  { 
+    "series_id": "NA000374Q", 
+    "name": "Net exports of goods and services" 
+  },
+  {
+    "series_id": "IRLTLT01JPM156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Japan"
+  },
+  {
+    "series_id": "JPNCPIALLQINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Japan"
+  },
+  {
+    "series_id": "CPALTT01JPM661S",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Japan"
+  },
+  { 
+    "series_id": "W068RC1A027NBEA", 
+    "name": "Government total expenditures" 
+  },
+  { 
+    "series_id": "IMPGS", 
+    "name": "Imports of Goods and Services" 
+  },
+  {
+    "series_id": "INDCPIALLMINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for India"
+  },
+  {
+    "series_id": "CPALTT01JPQ657N",
+    "name": "Consumer Price Index: All Items: Total for Japan"
+  },
+  {
+    "series_id": "CPALTT01JPM657N",
+    "name": "Consumer Price Index: All Items: Total for Japan"
+  },
+  {
+    "series_id": "CPALTT01JPA657N",
+    "name": "Consumer Price Index: All Items: Total for Japan"
+  },
+  {
+    "series_id": "JPNCPIALLAINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Japan"
+  },
+  {
+    "series_id": "CPALTT01JPQ661S",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Japan"
+  },
+  {
+    "series_id": "CPALTT01JPQ659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Japan"
+  },
+  {
+    "series_id": "CPALTT01JPA661S",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Japan"
+  },
+  {
+    "series_id": "CPALTT01JPA659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Japan"
+  },
+  {
+    "series_id": "CPALTT01INM659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for India"
+  },
+  {
+    "series_id": "IRLTLT01GBM156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for United Kingdom"
+  },
+  { 
+    "series_id": "W398RC1A027NBEA", 
+    "name": "Household saving" 
+  },
+  {
+    "series_id": "A053RC1Q027SBEA",
+    "name": "National income: Corporate profits before tax (without IVA and CCAdj)"
+  },
+  {
+    "series_id": "RECPROUSM156N",
+    "name": "Smoothed U.S. Recession Probabilities"
+  },
+  {
+    "series_id": "IRLTLT01DEQ156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Germany"
+  },
+  {
+    "series_id": "DGDSRX1",
+    "name": "Real Personal Consumption Expenditures: Goods"
+  },
+  {
+    "series_id": "IRLTLT01DEA156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Germany"
+  },
+  {
+    "series_id": "PCEDGC96",
+    "name": "Real Personal Consumption Expenditures: Durable Goods"
+  },
+  {
+    "series_id": "PCEND",
+    "name": "Personal Consumption Expenditures: Nondurable Goods"
+  },
+  {
+    "series_id": "PCND",
+    "name": "Personal Consumption Expenditures: Nondurable Goods"
+  },
+  { 
+    "series_id": "IMPGSA",
+    "name": "Imports of Goods and Services" 
+  },
+  {
+    "series_id": "CPALTT01DEM659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Germany"
+  },
+  {
+    "series_id": "DEUCPIALLMINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Germany"
+  },
+  {
+    "series_id": "PCDGCC96",
+    "name": "Real Personal Consumption Expenditures: Durable Goods"
+  },
+  { 
+    "series_id": "IEAMGSN", 
+    "name": "Imports of goods and services" 
+  },
+  {
+    "series_id": "CPALTT01INM657N",
+    "name": "Consumer Price Index: All Items: Total for India"
+  },
+  {
+    "series_id": "IR3TIB01USM156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for United States"
+  },
+  {
+    "series_id": "GCEC1",
+    "name": "Real Government Consumption Expenditures and Gross Investment"
+  },
+  { 
+    "series_id": "IEABC", 
+    "name": "Balance on current account" 
+  },
+  {
+    "series_id": "CPALTT01INQ657N",
+    "name": "Consumer Price Index: All Items: Total for India"
+  },
+  {
+    "series_id": "IRLTLT01JPA156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Japan"
+  },
+  {
+    "series_id": "INDCPIALLQINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for India"
+  },
+  { 
+    "series_id": "EXPGS",
+    "name": "Exports of Goods and Services" 
+  },
+  {
+    "series_id": "CPALTT01INA657N",
+    "name": "Consumer Price Index: All Items: Total for India"
+  },
+  {
+    "series_id": "IRLTLT01JPQ156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Japan"
+  },
+  { 
+    "series_id": "IEAMGS", 
+    "name": "Imports of goods and services" 
+  },
+  {
+    "series_id": "DGDSRX1Q020SBEA",
+    "name": "Real personal consumption expenditures: Goods"
+  },
+  {
+    "series_id": "INDCPIALLAINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for India"
+  },
+  {
+    "series_id": "CPALTT01INQ659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for India"
+  },
+  { 
+    "series_id": "IEAMGSA", 
+    "name": "Imports of goods and services" 
+  },
+  { 
+    "series_id": "NA000342Q", 
+    "name": "Imports of Goods and Services" 
+  },
+  {
+    "series_id": "CPALTT01INA659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for India"
+  },
+  { 
+    "series_id": "NC000342Q", 
+    "name": "Imports of Goods and Services" 
+  },
+  {
+    "series_id": "M0892AUSM156SNBR",
+    "name": "Unemployment Rate for United States"
+  },
+  {
+    "series_id": "A072RC1Q156SBEA",
+    "name": "Personal saving as a percentage of disposable personal income"
+  },
+  {
+    "series_id": "FYGFGDQ188S",
+    "name": "Federal Debt Held by the Public as Percent of Gross Domestic Product"
+  },
+  {
+    "series_id": "W875RX1",
+    "name": "Real personal income excluding current transfer receipts"
+  },
+  {
+    "series_id": "PNFIC1",
+    "name": "Real Private Nonresidential Fixed Investment"
+  },
+  {
+    "series_id": "CPALTT01DEM657N",
+    "name": "Consumer Price Index: All Items: Total for Germany"
+  },
+  {
+    "series_id": "ND000346Q",
+    "name": "Real Personal Consumption Expenditures: Durable Goods"
+  },
+  { 
+    "series_id": "PB0000091Q225SBEA", 
+    "name": "Real Average of GDP and GDI" 
+  },
+  {
+    "series_id": "IRLTLT01GBQ156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for United Kingdom"
+  },
+  {
+    "series_id": "CPALTT01DEQ657N",
+    "name": "Consumer Price Index: All Items: Total for Germany"
+  },
+  {
+    "series_id": "DEUCPIALLQINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Germany"
+  },
+  {
+    "series_id": "CPALTT01DEA657N",
+    "name": "Consumer Price Index: All Items: Total for Germany"
+  },
+  {
+    "series_id": "PCESC96",
+    "name": "Real Personal Consumption Expenditures: Services"
+  },
+  {
+    "series_id": "IRLTLT01GBA156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for United Kingdom"
+  },
+  { 
+    "series_id": "GDPNOW",
+    "name": "GDPNow" 
+  },
+  {
+    "series_id": "PCNDA",
+    "name": "Personal Consumption Expenditures: Nondurable Goods"
+  },
+  { 
+    "series_id": "IEABCA", 
+    "name": "Balance on current account" 
+  },
+  { 
+    "series_id": "UNEMPLOY", 
+    "name": "Unemployment Level" 
+  },
+  {
+    "series_id": "CPALTT01DEQ659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Germany"
+  },
+  {
+    "series_id": "OB000346Q",
+    "name": "Real Personal Consumption Expenditures: Durable Goods"
+  },
+  {
+    "series_id": "DGDSRAM1M225NBEA",
+    "name": "Real Personal Consumption Expenditures: Goods"
+  },
+  { 
+    "series_id": "IEAXGS", 
+    "name": "Exports of goods and services" 
+  },
+  {
+    "series_id": "CPALTT01DEA659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Germany"
+  },
+  {
+    "series_id": "DEUCPIALLAINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Germany"
+  },
+  {
+    "series_id": "PCDGCCA",
+    "name": "Real Personal Consumption Expenditures: Durable Goods"
+  },
+  {
+    "series_id": "DGDSRX1A020NBEA",
+    "name": "Real personal consumption expenditures: Goods"
+  },
+  {
+    "series_id": "DGDSRO1Q156NBEA",
+    "name": "Real Personal Consumption Expenditures: Goods"
+  },
+  {
+    "series_id": "DGDSRL1Q225SBEA",
+    "name": "Real Personal Consumption Expenditures: Goods"
+  },
+  {
+    "series_id": "NA000348Q",
+    "name": "Personal Consumption Expenditures: Nondurable Goods"
+  },
+  { 
+    "series_id": "EXPGSA", 
+    "name": "Exports of Goods and Services" 
+  },
+  {
+    "series_id": "NC000348Q",
+    "name": "Personal Consumption Expenditures: Nondurable Goods"
+  },
+  {
+    "series_id": "ND000347Q",
+    "name": "Real Personal Consumption Expenditures: Goods"
+  },
+  {
+    "series_id": "DGDSRL1A225NBEA",
+    "name": "Real Personal Consumption Expenditures: Goods"
+  },
+  {
+    "series_id": "Q0892BUSQ156SNBR",
+    "name": "Unemployment Rate for United States"
+  },
+  {
+    "series_id": "NB000346Q",
+    "name": "Real Personal Consumption Expenditures: Durable Goods"
+  },
+  {
+    "series_id": "NB000347Q",
+    "name": "Real Personal Consumption Expenditures: Goods"
+  },
+  {
+    "series_id": "OB000347Q",
+    "name": "Real Personal Consumption Expenditures: Goods"
+  },
+  {
+    "series_id": "PCESVC96",
+    "name": "Real Personal Consumption Expenditures: Services"
+  },
+  {
+    "series_id": "IR3TIB01USQ156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for United States"
+  },
+  {
+    "series_id": "CSCICP03USM665S",
+    "name": "Composite Leading Indicators: Composite Consumer Confidence Amplitude Adjusted for United States"
+  },
+  { 
+    "series_id": "LB0000091Q020SBEA", 
+    "name": "Real Average of GDP and GDI"
+  },
+  {
+    "series_id": "A822RL1Q225SBEA",
+    "name": "Real Government Consumption Expenditures and Gross Investment"
+  },
+  {
+    "series_id": "GCECA",
+    "name": "Real Government Consumption Expenditures and Gross Investment"
+  },
+  { 
+    "series_id": "IEAXGSA", 
+    "name": "Exports of goods and services" 
+  },
+  {
+    "series_id": "COMREPUSQ159N",
+    "name": "Commercial Real Estate Prices for United States"
+  },
+  { 
+    "series_id": "IEABCN", 
+    "name": "Balance on current account" 
+  },
+  { 
+    "series_id": "IEAXGSN", 
+    "name": "Exports of goods and services" 
+  },
+  {
+    "series_id": "A822RL1A225NBEA",
+    "name": "Real Government Consumption Expenditures and Gross Investment"
+  },
+  {
+    "series_id": "IR3TIB01USA156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for United States"
+  },
+  {
+    "series_id": "A822RO1Q156NBEA",
+    "name": "Real Government Consumption Expenditures and Gross Investment"
+  },
+  {
+    "series_id": "CHNGDPNQDSMEI",
+    "name": "National Accounts: GDP by Expenditure: Current Prices: Gross Domestic Product: Total for China"
+  },
+  { 
+    "series_id": "NA000352Q", 
+    "name": "Exports of Goods and Services" 
+  },
+  {
+    "series_id": "ND000333Q",
+    "name": "Real Government Consumption Expenditures and Gross Investment"
+  },
+  {
+    "series_id": "OB000333Q",
+    "name": "Real Government Consumption Expenditures and Gross Investment"
+  },
+  { 
+    "series_id": "NC000352Q", 
+    "name": "Exports of Goods and Services" 
+  },
+  {
+    "series_id": "NB000333Q",
+    "name": "Real Government Consumption Expenditures and Gross Investment"
+  },
+  {
+    "series_id": "Q09084USQ507NNBR",
+    "name": "Mortgage Delinquency Rates for United States"
+  },
+  {
+    "series_id": "M0892BUSM156SNBR",
+    "name": "Unemployment Rate for United States"
+  },
+  {
+    "series_id": "IR3TBB01AUQ156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Bank Bills: Total for Australia"
+  },
+  { 
+    "series_id": "PNFI", 
+    "name": "Private Nonresidential Fixed Investment" 
+  },
+  {
+    "series_id": "PRFIC1",
+    "name": "Real Private Residential Fixed Investment"
+  },
+  { 
+    "series_id": "PE0000091Q156NBEA", 
+    "name": "Real Average of GDP and GDI" 
+  },
+  {
+    "series_id": "DPCERD3Q086SBEA",
+    "name": "Personal consumption expenditures (implicit price deflator)"
+  },
+  {
+    "series_id": "IR3TBB01AUM156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Bank Bills: Total for Australia"
+  },
+  {
+    "series_id": "A072RC1A156NBEA",
+    "name": "Personal saving as a percentage of disposable personal income"
+  },
+  {
+    "series_id": "CANQGSP",
+    "name": "Gross Domestic Product: All Industry Total in California"
+  },
+  {
+    "series_id": "ND000350Q",
+    "name": "Real Personal Consumption Expenditures: Services"
+  },
+  {
+    "series_id": "PIECTR",
+    "name": "Real personal income excluding current transfer receipts"
+  },
+  {
+    "series_id": "OB000336Q",
+    "name": "Real Private Nonresidential Fixed Investment"
+  },
+  {
+    "series_id": "M0892CUSM156NNBR",
+    "name": "Unemployment Rate for United States"
+  },
+  {
+    "series_id": "CANGSP",
+    "name": "Gross Domestic Product: All Industry Total in California"
+  },
+  { 
+    "series_id": "IMPGSC1", 
+    "name": "Real imports of goods and services" 
+  },
+  {
+    "series_id": "PNFICA",
+    "name": "Real Private Nonresidential Fixed Investment"
+  },
+  { 
+    "series_id": "LB0000091A020NBEA", 
+    "name": "Real average of GDP and GDI" 
+  },
+  { 
+    "series_id": "EXPGSC1", 
+    "name": "Real Exports of Goods and Services" 
+  },
+  {
+    "series_id": "USAMABMM301IXOBSAQ",
+    "name": "Monetary Aggregates and Their Components: Broad Money and Components: M3 for United States"
+  },
+  {
+    "series_id": "DSERRO1Q156NBEA",
+    "name": "Real Personal Consumption Expenditures: Services"
+  },
+  {
+    "series_id": "DSERRAM1M225NBEA",
+    "name": "Real Personal Consumption Expenditures: Services"
+  },
+  {
+    "series_id": "W875RX1A020NBEA",
+    "name": "Real personal income excluding current transfer receipts"
+  },
+  {
+    "series_id": "PCESVCA",
+    "name": "Real Personal Consumption Expenditures: Services"
+  },
+  {
+    "series_id": "ND000336Q",
+    "name": "Real Private Nonresidential Fixed Investment"
+  },
+  { 
+    "series_id": "PB0000091A225NBEA", 
+    "name": "Real average of GDP and GDI" 
+  },
+  {
+    "series_id": "DSERRL1Q225SBEA",
+    "name": "Real Personal Consumption Expenditures: Services"
+  },
+  {
+    "series_id": "NB000350Q",
+    "name": "Real Personal Consumption Expenditures: Services"
+  },
+  {
+    "series_id": "NB000336Q",
+    "name": "Real Private Nonresidential Fixed Investment"
+  },
+  {
+    "series_id": "DSERRL1A225NBEA",
+    "name": "Real Personal Consumption Expenditures: Services"
+  },
+  {
+    "series_id": "OB000350Q",
+    "name": "Real Personal Consumption Expenditures: Services"
+  },
+  { 
+    "series_id": "EXPGSCA", 
+    "name": "Real Exports of Goods and Services" 
+  },
+  { 
+    "series_id": "IMPGSCA", 
+    "name": "Real Imports of Goods and Services" 
+  },
+  {
+    "series_id": "USAMABMM301IXOBSAM",
+    "name": "Monetary Aggregates and Their Components: Broad Money and Components: M3 for United States"
+  },
+  { 
+    "series_id": "GPSAVE", 
+    "name": "Gross Private Saving" 
+  },
+  {
+    "series_id": "IMPCH",
+    "name": "U.S. Imports of Goods by Customs Basis from China"
+  },
+  {
+    "series_id": "LREM64TTUSM156S",
+    "name": "Infra-Annual Labor Statistics: Employment Rate Total: From 15 to 64 Years for United States"
+  },
+  {
+    "series_id": "A006RE1Q156NBEA",
+    "name": "Shares of gross domestic product: Gross private domestic investment"
+  },
+  { 
+    "series_id": "PRFI", 
+    "name": "Private Residential Fixed Investment" 
+  },
+  {
+    "series_id": "W207RC1Q156SBEA",
+    "name": "Net saving as a percentage of gross national income"
+  },
+  {
+    "series_id": "USAGDPDEFQISMEI",
+    "name": "National Accounts: National Accounts Deflators: Gross Domestic Product: GDP Deflator for United States"
+  },
+  {
+    "series_id": "USAGDPDEFAISMEI",
+    "name": "National Accounts: National Accounts Deflators: Gross Domestic Product: GDP Deflator for United States"
+  },
+  {
+    "series_id": "LRUNTTTTCAM156S",
+    "name": "Infra-Annual Labor Statistics: Unemployment Rate Total: 15 Years or over for Canada"
+  },
+  { 
+    "series_id": "NROU", 
+    "name": "Noncyclical Rate of Unemployment" 
+  },
+  {
+    "series_id": "M0264AUSM500NNBR",
+    "name": "New Home Mortgage Applications for United States"
+  },
+  {
+    "series_id": "DPCERD3A086NBEA",
+    "name": "Personal consumption expenditures (implicit price deflator)"
+  },
+  {
+    "series_id": "CHNGDPNADSMEI",
+    "name": "National Accounts: GDP by Expenditure: Current Prices: Gross Domestic Product: Total for China"
+  },
+  {
+    "series_id": "B4701C0A222NBEA",
+    "name": "Hours worked by full-time and part-time employees"
+  },
+  {
+    "series_id": "IR3TBB01AUA156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Bank Bills: Total for Australia"
+  },
+  {
+    "series_id": "IRLTLT01EZM156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Euro Area (19 Countries)"
+  },
+  { 
+    "series_id": "ND000342Q", 
+    "name": "Real Imports of Goods and Services" 
+  },
+  {
+    "series_id": "B087RC1Q027SBEA",
+    "name": "Federal government current transfer payments: Government social benefits: to persons"
+  },
+  { 
+    "series_id": "PNFIA", 
+    "name": "Private Nonresidential Fixed Investment" 
+  },
+  {
+    "series_id": "NA000336Q",
+    "name": "Private Nonresidential Fixed Investment"
+  },
+  {
+    "series_id": "ND000338Q",
+    "name": "Real Private Residential Fixed Investment"
+  },
+  {
+    "series_id": "PRFICA",
+    "name": "Real Private Residential Fixed Investment"
+  },
+  {
+    "series_id": "A021RL1Q158SBEA",
+    "name": "Real Imports of Goods and Services"
+  },
+  {
+    "series_id": "A020RL1Q158SBEA",
+    "name": "Real Exports of Goods and Services"
+  },
+  {
+    "series_id": "ACTLISCOUFL",
+    "name": "Housing Inventory: Active Listing Count in Florida"
+  },
+  {
+    "series_id": "A021RO1Q156NBEA",
+    "name": "Real Imports of Goods and Services"
+  },
+  {
+    "series_id": "NC000336Q",
+    "name": "Private Nonresidential Fixed Investment"
+  },
+  {
+    "series_id": "A020RL1A158NBEA",
+    "name": "Real Exports of Goods and Services"
+  },
+  { 
+    "series_id": "ND000352Q", 
+    "name": "Real Exports of Goods and Services" 
+  },
+  {
+    "series_id": "A021RL1A158NBEA",
+    "name": "Real Imports of Goods and Services"
+  },
+  { 
+    "series_id": "OB000342Q",
+    "name": "Real Imports of Goods and Services"
+  },
+  { 
+    "series_id": "NB000342Q",
+    "name": "Real Imports of Goods and Services"
+  },
+  { 
+    "series_id": "NB000352Q",
+    "name": "Real Exports of Goods and Services"
+  },
+  {
+    "series_id": "A020RO1Q156NBEA",
+    "name": "Real Exports of Goods and Services"
+  },
+  { 
+    "series_id": "OB000352Q", 
+    "name": "Real Exports of Goods and Services" 
+  },
+  {
+    "series_id": "LRUNTTTTCAQ156S",
+    "name": "Infra-Annual Labor Statistics: Unemployment Rate Total: 15 Years or over for Canada"
+  },
+  {
+    "series_id": "W207RC1A156NBEA",
+    "name": "Net saving as a percentage of gross national income"
+  },
+  { 
+    "series_id": "BA06RC1A027NBEA", 
+    "name": "Total wages and salaries, BLS" 
+  },
+  {
+    "series_id": "LREM64TTUSQ156S",
+    "name": "Infra-Annual Labor Statistics: Employment Rate Total: From 15 to 64 Years for United States"
+  },
+  {
+    "series_id": "A006RE1A156NBEA",
+    "name": "Shares of gross domestic product: Gross private domestic investment"
+  },
+  { 
+    "series_id": "B069RC1", 
+    "name": "Personal interest payments" 
+  },
+  {
+    "series_id": "LRUNTTTTCAM156N",
+    "name": "Infra-Annual Labor Statistics: Unemployment Rate Total: 15 Years or over for Canada"
+  },
+  { 
+    "series_id": "PRFIA", 
+    "name": "Private Residential Fixed Investment" 
+  },
+  {
+    "series_id": "LMJVTTUVUSM647S",
+    "name": "Infra-Annual Registered Unemployment and Job Vacancies: Total Economy: Unfilled Vacancies for United States"
+  },
+  { 
+    "series_id": "A126RC1A027NBEA", 
+    "name": "Gross private saving" 
+  },
+  {
+    "series_id": "LREM64TTUSA156S",
+    "name": "Infra-Annual Labor Statistics: Employment Rate Total: From 15 to 64 Years for United States"
+  },
+  {
+    "series_id": "LRUNTTTTCAQ156N",
+    "name": "Infra-Annual Labor Statistics: Unemployment Rate Total: 15 Years or over for Canada"
+  },
+  {
+    "series_id": "LREM64TTUSM156N",
+    "name": "Infra-Annual Labor Statistics: Employment Rate Total: From 15 to 64 Years for United States"
+  },
+  {
+    "series_id": "LRUNTTTTCAA156N",
+    "name": "Infra-Annual Labor Statistics: Unemployment Rate Total: 15 Years or over for Canada"
+  },
+  {
+    "series_id": "LRUNTTTTCAA156S",
+    "name": "Infra-Annual Labor Statistics: Unemployment Rate Total: 15 Years or over for Canada"
+  },
+  {
+    "series_id": "LREM64TTUSA156N",
+    "name": "Infra-Annual Labor Statistics: Employment Rate Total: From 15 to 64 Years for United States"
+  },
+  {
+    "series_id": "LREM64TTUSQ156N",
+    "name": "Infra-Annual Labor Statistics: Employment Rate Total: From 15 to 64 Years for United States"
+  },
+  {
+    "series_id": "FRACPIALLMINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for France"
+  },
+  {
+    "series_id": "B087RC1A027NBEA",
+    "name": "Federal government current transfer payments: Government social benefits: to persons"
+  },
+  {
+    "series_id": "IR3TCD01USM156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Certificates of Deposit: Total for United States"
+  },
+  {
+    "series_id": "ITACPIALLMINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Italy"
+  },
+  {
+    "series_id": "M1109BUSM293NNBR",
+    "name": "Dow-Jones Industrial Stock Price Index for United States"
+  },
+  {
+    "series_id": "IRLTLT01EZA156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "VAPGDPMA",
+    "name": "Value Added by Industry: Manufacturing as a Percentage of GDP"
+  },
+  {
+    "series_id": "CPATAX",
+    "name": "Corporate Profits After Tax with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj)"
+  },
+  {
+    "series_id": "M0264BUSM500NNBR",
+    "name": "New Home Mortgage Applications for United States"
+  },
+  {
+    "series_id": "MABMM301EZM189S",
+    "name": "Monetary Aggregates and Their Components: Broad Money and Components: M3 for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "TXNGSP",
+    "name": "Gross Domestic Product: All Industry Total in Texas"
+  },
+  {
+    "series_id": "LFWA64TTJPM647S",
+    "name": "Infra-Annual Labor Statistics: Working-Age Population Total: From 15 to 64 Years for Japan"
+  },
+  {
+    "series_id": "IRLTLT01EZQ156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "LMJVTTUVUSQ647S",
+    "name": "Infra-Annual Registered Unemployment and Job Vacancies: Total Economy: Unfilled Vacancies for United States"
+  },
+  {
+    "series_id": "NA000300Q",
+    "name": "Federal government current transfer payments: Government social benefits: to persons"
+  },
+  {
+    "series_id": "CPALTT01FRM659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for France"
+  },
+  {
+    "series_id": "CPALTT01BRM659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Brazil"
+  },
+  {
+    "series_id": "ITACPIALLQINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Italy"
+  },
+  {
+    "series_id": "CPALTT01CAM659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Canada"
+  },
+  {
+    "series_id": "PCENDC96",
+    "name": "Real Personal Consumption Expenditures: Nondurable Goods"
+  },
+  {
+    "series_id": "PCNDGC96",
+    "name": "Real Personal Consumption Expenditures: Nondurable Goods"
+  },
+  {
+    "series_id": "CPALTT01ITM659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Italy"
+  },
+  {
+    "series_id": "TXNQGSP",
+    "name": "Gross Domestic Product: All Industry Total in Texas"
+  },
+  { 
+    "series_id": "B069RC1Q027SBEA", 
+    "name": "Personal interest payments" 
+  },
+  {
+    "series_id": "NAEXKP01INQ652S",
+    "name": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product: Total for India"
+  },
+  {
+    "series_id": "CPALTT01FRM657N",
+    "name": "Consumer Price Index: All Items: Total for France"
+  },
+  {
+    "series_id": "CPALTT01ITM657N",
+    "name": "Consumer Price Index: All Items: Total for Italy"
+  },
+  {
+    "series_id": "CPALTT01FRA657N",
+    "name": "Consumer Price Index: All Items: Total for France"
+  },
+  {
+    "series_id": "CPALTT01FRQ657N",
+    "name": "Consumer Price Index: All Items: Total for France"
+  },
+  {
+    "series_id": "CPALTT01ITQ657N",
+    "name": "Consumer Price Index: All Items: Total for Italy"
+  },
+  {
+    "series_id": "CPALTT01ITA657N",
+    "name": "Consumer Price Index: All Items: Total for Italy"
+  },
+  {
+    "series_id": "BSCICP03USM665S",
+    "name": "Composite Leading Indicators: Composite Business Confidence Amplitude Adjusted for United States"
+  },
+  {
+    "series_id": "FCTAX",
+    "name": "Federal Government: Tax Receipts on Corporate Income"
+  },
+  { 
+    "series_id": "FGRECPT", 
+    "name": "Federal Government Current Receipts" 
+  },
+  {
+    "series_id": "B096RC1Q027SBEA",
+    "name": "Federal government current expenditures: Subsidies"
+  },
+  {
+    "series_id": "A794RX0Q048SBEA",
+    "name": "Real personal consumption expenditures per capita"
+  },
+  {
+    "series_id": "IR3TCD01USQ156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Certificates of Deposit: Total for United States"
+  },
+  {
+    "series_id": "GCE",
+    "name": "Government Consumption Expenditures and Gross Investment"
+  },
+  {
+    "series_id": "FRACPIALLQINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for France"
+  },
+  {
+    "series_id": "LRUN64TTJPM156S",
+    "name": "Infra-Annual Labor Statistics: Unemployment Rate Total: From 15 to 64 Years for Japan"
+  },
+  {
+    "series_id": "CPALTT01FRQ659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for France"
+  },
+  {
+    "series_id": "CPALTT01ITQ659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Italy"
+  },
+  {
+    "series_id": "CANCPIALLMINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Canada"
+  },
+  {
+    "series_id": "LMJVTTUVUSA647S",
+    "name": "Infra-Annual Registered Unemployment and Job Vacancies: Total Economy: Unfilled Vacancies for United States"
+  },
+  {
+    "series_id": "ITACPIALLAINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Italy"
+  },
+  {
+    "series_id": "BRACPIALLMINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Brazil"
+  },
+  { 
+    "series_id": "B069RC1A027NBEA", 
+    "name": "Personal interest payments" 
+  },
+  {
+    "series_id": "CPALTT01FRA659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for France"
+  },
+  {
+    "series_id": "FRACPIALLAINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for France"
+  },
+  {
+    "series_id": "LMJVTTUVUSM647N",
+    "name": "Infra-Annual Registered Unemployment and Job Vacancies: Total Economy: Unfilled Vacancies for United States"
+  },
+  {
+    "series_id": "LMJVTTUVUSA647N",
+    "name": "Infra-Annual Registered Unemployment and Job Vacancies: Total Economy: Unfilled Vacancies for United States"
+  },
+  {
+    "series_id": "LMJVTTUVUSQ647N",
+    "name": "Infra-Annual Registered Unemployment and Job Vacancies: Total Economy: Unfilled Vacancies for United States"
+  },
+  {
+    "series_id": "CPALTT01ITA659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Italy"
+  },
+  {
+    "series_id": "MEDDAYONMARUS",
+    "name": "Housing Inventory: Median Days on Market in the United States"
+  },
+  {
+    "series_id": "USRECDM",
+    "name": "NBER based Recession Indicators for the United States from the Peak through the Trough"
+  },
+  {
+    "series_id": "M1109AUSM293NNBR",
+    "name": "Dow-Jones Industrial Stock Price Index for United States"
+  },
+  {
+    "series_id": "CPALTT01BRM657N",
+    "name": "Consumer Price Index: All Items: Total for Brazil"
+  },
+  {
+    "series_id": "M09086USM156NNBR",
+    "name": "Automobile Direct Loans, Delinquent 30 Days and Over as Percentage of Number Outstanding for United States"
+  },
+  {
+    "series_id": "IR3TCD01USA156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Certificates of Deposit: Total for United States"
+  },
+  {
+    "series_id": "CPALTT01BRQ657N",
+    "name": "Consumer Price Index: All Items: Total for Brazil"
+  },
+  {
+    "series_id": "CPHPTT01EZM659N",
+    "name": "Consumer Price Index: Harmonised Prices: All Items: Total for the Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "CMRMT",
+    "name": "Real Manufacturing and Trade Industries Sales"
+  },
+  {
+    "series_id": "IRSTCB01CAM156N",
+    "name": "Interest Rates: Immediate Rates (< 24 Hours): Central Bank Rates: Total for Canada"
+  },
+  {
+    "series_id": "BRACPIALLAINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Brazil"
+  },
+  {
+    "series_id": "USACPICORMINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: All Items Non-Food Non-Energy for United States"
+  },
+  {
+    "series_id": "USRECM",
+    "name": "NBER based Recession Indicators for the United States from the Peak through the Trough"
+  },
+  {
+    "series_id": "MABMM301EZM189N",
+    "name": "Monetary Aggregates and Their Components: Broad Money and Components: M3 for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "MABMM301EZA189N",
+    "name": "Monetary Aggregates and Their Components: Broad Money and Components: M3 for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "CPALTT01BRA657N",
+    "name": "Consumer Price Index: All Items: Total for Brazil"
+  },
+  {
+    "series_id": "CPGRLE01USQ657N",
+    "name": "Consumer Price Index: OECD Groups: All Items Non-Food Non-Energy: Total for United States"
+  },
+  {
+    "series_id": "LFWA64TTJPM647N",
+    "name": "Infra-Annual Labor Statistics: Working-Age Population Total: From 15 to 64 Years for Japan"
+  },
+  {
+    "series_id": "CPALTT01CAQ659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Canada"
+  },
+  {
+    "series_id": "CPALTT01CAQ657N",
+    "name": "Consumer Price Index: All Items: Total for Canada"
+  },
+  {
+    "series_id": "CPALTT01CAA657N",
+    "name": "Consumer Price Index: All Items: Total for Canada"
+  },
+  {
+    "series_id": "CPALTT01CAM657N",
+    "name": "Consumer Price Index: All Items: Total for Canada"
+  },
+  {
+    "series_id": "MABMM301EZQ189N",
+    "name": "Monetary Aggregates and Their Components: Broad Money and Components: M3 for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "FDEFX",
+    "name": "Federal Government: National Defense Consumption Expenditures and Gross Investment"
+  },
+  {
+    "series_id": "W986RC1Q027SBEA",
+    "name": "Net private saving: Households and institutions"
+  },
+  {
+    "series_id": "CPGRLE01USM657N",
+    "name": "Consumer Price Index: OECD Groups: All Items Non-Food Non-Energy: Total for United States"
+  },
+  {
+    "series_id": "HMRMT",
+    "name": "Real Manufacturing and Trade Industries Sales"
+  },
+  {
+    "series_id": "ND000348Q",
+    "name": "Real Personal Consumption Expenditures: Nondurable Goods"
+  },
+  {
+    "series_id": "IRLTLT01CAM156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Canada"
+  },
+  {
+    "series_id": "CANCPIALLQINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Canada"
+  },
+  {
+    "series_id": "CARGSP",
+    "name": "Real Gross Domestic Product: All Industry Total in California"
+  },
+  {
+    "series_id": "NYNGSP",
+    "name": "Gross Domestic Product: All Industry Total in New York"
+  },
+  {
+    "series_id": "BRACPIALLQINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Brazil"
+  },
+  {
+    "series_id": "CPALTT01BRQ659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Brazil"
+  },
+  {
+    "series_id": "OB000348Q",
+    "name": "Real Personal Consumption Expenditures: Nondurable Goods"
+  },
+  {
+    "series_id": "LFWA64TTJPA647S",
+    "name": "Infra-Annual Labor Statistics: Working-Age Population Total: From 15 to 64 Years for Japan"
+  },
+  {
+    "series_id": "CANCPIALLAINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Canada"
+  },
+  {
+    "series_id": "MABMM301EZM657S",
+    "name": "Monetary Aggregates and Their Components: Broad Money and Components: M3 for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "CPALTT01BRA659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Brazil"
+  },
+  {
+    "series_id": "PCNDGCA",
+    "name": "Real Personal Consumption Expenditures: Nondurable Goods"
+  },
+  {
+    "series_id": "LFWA64TTJPQ647S",
+    "name": "Infra-Annual Labor Statistics: Working-Age Population Total: From 15 to 64 Years for Japan"
+  },
+  {
+    "series_id": "CPALTT01CAA659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Canada"
+  },
+  {
+    "series_id": "MABMM301EZA189S",
+    "name": "Monetary Aggregates and Their Components: Broad Money and Components: M3 for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "MABMM301EZA657S",
+    "name": "Monetary Aggregates and Their Components: Broad Money and Components: M3 for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "MABMM301EZQ189S",
+    "name": "Monetary Aggregates and Their Components: Broad Money and Components: M3 for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "CQRMT",
+    "name": "Real Manufacturing and Trade Industries Sales"
+  },
+  {
+    "series_id": "HQRMT",
+    "name": "Real Manufacturing and Trade Industries Sales"
+  },
+  {
+    "series_id": "NB000348Q",
+    "name": "Real Personal Consumption Expenditures: Nondurable Goods"
+  },
+  {
+    "series_id": "LFWA64TTJPA647N",
+    "name": "Infra-Annual Labor Statistics: Working-Age Population Total: From 15 to 64 Years for Japan"
+  },
+  {
+    "series_id": "LFWA64TTJPQ647N",
+    "name": "Infra-Annual Labor Statistics: Working-Age Population Total: From 15 to 64 Years for Japan"
+  },
+  {
+    "series_id": "MABMM301EZQ657S",
+    "name": "Monetary Aggregates and Their Components: Broad Money and Components: M3 for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "LRUN64TTJPQ156S",
+    "name": "Infra-Annual Labor Statistics: Unemployment Rate Total: From 15 to 64 Years for Japan"
+  },
+  {
+    "series_id": "USRECQM",
+    "name": "NBER based Recession Indicators for the United States from the Peak through the Trough"
+  },
+  {
+    "series_id": "PCETRIM12M159SFRBDAL",
+    "name": "Trimmed Mean PCE Inflation Rate"
+  },
+  {
+    "series_id": "INDGDPRQPSMEI",
+    "name": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product: Total for India"
+  },
+  {
+    "series_id": "CPGRLE01USA657N",
+    "name": "Consumer Price Index: OECD Groups: All Items Non-Food Non-Energy: Total for United States"
+  },
+  {
+    "series_id": "NAEXKP01INQ661S",
+    "name": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product: Total for India"
+  },
+  {
+    "series_id": "CARQGSP",
+    "name": "Real Gross Domestic Product: All Industry Total in California"
+  },
+  {
+    "series_id": "NYNQGSP",
+    "name": "Gross Domestic Product: All Industry Total in New York"
+  },
+  {
+    "series_id": "M1490AUSM157SNBR",
+    "name": "Total Money Supply for United States"
+  },
+  {
+    "series_id": "NAEXKP01INA652S",
+    "name": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product: Total for India"
+  },
+  { 
+    "series_id": "GOAI", 
+    "name": "Gross Output by Industry: All Industries" 
+  },
+  {
+    "series_id": "CPGDPAI",
+    "name": "Contributions to Percent Change in Real GDP by Industry: Gross Domestic Product"
+  },
+  {
+    "series_id": "NAEXKP01INQ657S",
+    "name": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product: Total for India"
+  },
+  {
+    "series_id": "NAEXKP01INA661S",
+    "name": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product: Total for India"
+  },
+  {
+    "series_id": "IRSTCB01CAA156N",
+    "name": "Interest Rates: Immediate Rates (< 24 Hours): Central Bank Rates: Total for Canada"
+  },
+  {
+    "series_id": "GCEA",
+    "name": "Government Consumption Expenditures and Gross Investment"
+  },
+  {
+    "series_id": "CPGRLE01USM659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: All Items Non-Food Non-Energy for United States"
+  },
+  {
+    "series_id": "A822RE1Q156NBEA",
+    "name": "Shares of gross domestic product: Government consumption expenditures and gross investment"
+  },
+  {
+    "series_id": "DGDSRC1",
+    "name": "Personal Consumption Expenditures: Goods"
+  },
+  {
+    "series_id": "USACPICORQINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: All Items Non-Food Non-Energy for United States"
+  },
+  {
+    "series_id": "CPGRLE01USQ659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: All Items Non-Food Non-Energy for United States"
+  },
+  {
+    "series_id": "XTEXVA01CNM667S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for China"
+  },
+  { 
+    "series_id": "NA000304Q", 
+    "name": "Federal Government Current Receipts" 
+  },
+  {
+    "series_id": "B096RC1A027NBEA",
+    "name": "Federal government current expenditures: Subsidies"
+  },
+  {
+    "series_id": "A229RC0A052NBEA",
+    "name": "Disposable personal income: Per capita"
+  },
+  {
+    "series_id": "LRUN64TTJPM156N",
+    "name": "Infra-Annual Labor Statistics: Unemployment Rate Total: From 15 to 64 Years for Japan"
+  },
+  {
+    "series_id": "LRUN64TTJPA156S",
+    "name": "Infra-Annual Labor Statistics: Unemployment Rate Total: From 15 to 64 Years for Japan"
+  },
+  {
+    "series_id": "LRUN64TTJPQ156N",
+    "name": "Infra-Annual Labor Statistics: Unemployment Rate Total: From 15 to 64 Years for Japan"
+  },
+  {
+    "series_id": "NAEXKP01INA657S",
+    "name": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product: Total for India"
+  },
+  {
+    "series_id": "INDGDPRAPSMEI",
+    "name": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product: Total for India"
+  },
+  {
+    "series_id": "NA000318Q",
+    "name": "Federal government current expenditures: Subsidies"
+  },
+  {
+    "series_id": "NC000333Q",
+    "name": "Government Consumption Expenditures and Gross Investment"
+  },
+  {
+    "series_id": "NA000333Q",
+    "name": "Government Consumption Expenditures and Gross Investment"
+  },
+  {
+    "series_id": "LRUN64TTJPA156N",
+    "name": "Infra-Annual Labor Statistics: Unemployment Rate Total: From 15 to 64 Years for Japan"
+  },
+  {
+    "series_id": "CPGRLE01USA659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: All Items Non-Food Non-Energy for United States"
+  },
+  {
+    "series_id": "USACPICORAINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: All Items Non-Food Non-Energy for United States"
+  },
+  {
+    "series_id": "CPHPTT01EZM661N",
+    "name": "Consumer Price Index: Harmonised Prices: All Items: Total for the Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "MANMM101USM189S",
+    "name": "Monetary Aggregates and Their Components: Narrow Money and Components: M1 and Components: M1 for United States"
+  },
+  {
+    "series_id": "DAUTOSAAR",
+    "name": "Motor Vehicle Retail Sales: Domestic Autos"
+  },
+  {
+    "series_id": "PCETRIM1M158SFRBDAL",
+    "name": "Trimmed Mean PCE Inflation Rate"
+  },
+  {
+    "series_id": "IRSTCB01CAQ156N",
+    "name": "Interest Rates: Immediate Rates (< 24 Hours): Central Bank Rates: Total for Canada"
+  },
+  {
+    "series_id": "CPHPTT01EZA661N",
+    "name": "Consumer Price Index: Harmonised Prices: All Items: Total for the Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "LCULMN01USQ661S",
+    "name": "Labor Compensation: Unit Labor Cost: Manufacturing: Total for United States"
+  },
+  {
+    "series_id": "USALORSGPNOSTSAM",
+    "name": "Composite Leading Indicators: Reference Series (GDP) Normalized for United States"
+  },
+  {
+    "series_id": "A08139USA052NNBR",
+    "name": "Laborers' Average Hourly Rate of Wages, Weighted for United States"
+  },
+  {
+    "series_id": "CPHPTT01EZA659N",
+    "name": "Consumer Price Index: Harmonised Prices: All Items: Total for the Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "IRLTLT01CAQ156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Canada"
+  },
+  {
+    "series_id": "DAUTOSA",
+    "name": "Motor Vehicle Retail Sales: Domestic Autos"
+  },
+  {
+    "series_id": "CPHPTT01EZM657N",
+    "name": "Consumer Price Index: Harmonised Prices: All Items: Total for the Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "PCETRIM6M680SFRBDAL",
+    "name": "Trimmed Mean PCE Inflation Rate"
+  },
+  {
+    "series_id": "CPHPTT01EZA657N",
+    "name": "Consumer Price Index: Harmonised Prices: All Items: Total for the Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "GGGDTACAA188N",
+    "name": "General government gross debt for Canada"
+  },
+  {
+    "series_id": "A576RC1",
+    "name": "Compensation of Employees, Received: Wage and Salary Disbursements"
+  },
+  {
+    "series_id": "DPCERY2Q224SBEA",
+    "name": "Contributions to percent change in real gross domestic product: Personal consumption expenditures"
+  },
+  {
+    "series_id": "A191RD3A086NBEA",
+    "name": "Gross domestic product (implicit price deflator)"
+  },
+  {
+    "series_id": "IRLTLT01CAA156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Canada"
+  },
+  {
+    "series_id": "MANMM101USA189S",
+    "name": "Monetary Aggregates and Their Components: Narrow Money and Components: M1 and Components: M1 for United States"
+  },
+  {
+    "series_id": "W986RC1A027NBEA",
+    "name": "Net private saving: Households and institutions"
+  },
+  { 
+    "series_id": "NETEXC", 
+    "name": "Real Net Exports of Goods and Services" 
+  },
+  {
+    "series_id": "IIPUSNETIQ",
+    "name": "U.S. Net International Investment Position"
+  },
+  {
+    "series_id": "A229RC0Q052SBEA",
+    "name": "Disposable personal income: Per capita"
+  },
+  {
+    "series_id": "MEXCPIALLMINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Mexico"
+  },
+  {
+    "series_id": "CPALTT01AUQ659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Australia"
+  },
+  {
+    "series_id": "SPASTT01USM661N",
+    "name": "Financial Market: Share Prices for United States"
+  },
+  {
+    "series_id": "ANFCI",
+    "name": "Chicago Fed Adjusted National Financial Conditions Index"
+  },
+  {
+    "series_id": "TURCPIALLMINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Turkiye"
+  },
+  {
+    "series_id": "STICKCPIM157SFRBATL",
+    "name": "Sticky Price Consumer Price Index"
+  },
+  {
+    "series_id": "A822RE1A156NBEA",
+    "name": "Shares of gross domestic product: Government consumption expenditures and gross investment"
+  },
+  {
+    "series_id": "DAUTONSA",
+    "name": "Motor Vehicle Retail Sales: Domestic Autos"
+  },
+  {
+    "series_id": "M1490BUSM157SNBR",
+    "name": "Total Money Supply for United States"
+  },
+  {
+    "series_id": "MANMM101USM657S",
+    "name": "Monetary Aggregates and Their Components: Narrow Money and Components: M1 and Components: M1 for United States"
+  },
+  {
+    "series_id": "DGDSRC1Q027SBEA",
+    "name": "Personal consumption expenditures: Goods"
+  },
+  {
+    "series_id": "CPALCY01CAM661N",
+    "name": "Consumer Price Index: All Items: City: Total for Canada"
+  },
+  {
+    "series_id": "MANMM101USM189N",
+    "name": "Monetary Aggregates and Their Components: Narrow Money and Components: M1 and Components: M1 for United States"
+  },
+  {
+    "series_id": "MANMM101USQ189N",
+    "name": "Monetary Aggregates and Their Components: Narrow Money and Components: M1 and Components: M1 for United States"
+  },
+  {
+    "series_id": "MANMM101USA189N",
+    "name": "Monetary Aggregates and Their Components: Narrow Money and Components: M1 and Components: M1 for United States"
+  },
+  {
+    "series_id": "USACPGRLE01IXOBSAQ",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: All Items Non-Food Non-Energy for United States"
+  },
+  {
+    "series_id": "XTEXVA01CNM667N",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for China"
+  },
+  {
+    "series_id": "XTEXVA01CNQ667S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for China"
+  },
+  {
+    "series_id": "USACPGRLE01IXOBSAM",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: All Items Non-Food Non-Energy for United States"
+  },
+  {
+    "series_id": "DFXARC1M027SBEA",
+    "name": "Personal consumption expenditures: Food"
+  },
+  { 
+    "series_id": "GGSAVE",
+    "name": "Gross Government Saving" 
+  },
+  { 
+    "series_id": "LTOTALNSA",
+    "name": "Light Weight Vehicle Sales" 
+  },
+  {
+    "series_id": "A229RC0",
+    "name": "Disposable Personal Income: Per capita: Current dollars"
+  },
+  {
+    "series_id": "A466RD3Q052SBEA",
+    "name": "Profit per unit of real gross value added of nonfinancial corporate business: Corporate profits after tax with IVA and CCAdj (unit profits from current production)"
+  },
+  {
+    "series_id": "LCULMN01USA661S",
+    "name": "Labor Compensation: Unit Labor Cost: Manufacturing: Total for United States"
+  },
+  {
+    "series_id": "XTEXVA01CNM664S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for China"
+  },
+  {
+    "series_id": "W790RC1Q027SBEA",
+    "name": "Net domestic investment: Private: Domestic business"
+  },
+  {
+    "series_id": "XTEXVA01CNM659S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for China"
+  },
+  {
+    "series_id": "MANMM101USA657S",
+    "name": "Monetary Aggregates and Their Components: Narrow Money and Components: M1 and Components: M1 for United States"
+  },
+  {
+    "series_id": "SPASTT01USM657N",
+    "name": "Share Prices: All Shares/Broad: Total for United States"
+  },
+  {
+    "series_id": "IRLTLT01ITM156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Italy"
+  },
+  {
+    "series_id": "IR3TIB01GBM156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for United Kingdom"
+  },
+  {
+    "series_id": "IR3TIB01EZM156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "IRLTLT01FRM156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for France"
+  },
+  {
+    "series_id": "DGDSRC1A027NBEA",
+    "name": "Personal consumption expenditures: Goods"
+  },
+  {
+    "series_id": "DPCCRC1M027SBEA",
+    "name": "Personal consumption expenditures excluding food and energy"
+  },
+  {
+    "series_id": "XTEXVA01CNQ667N",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for China"
+  },
+  {
+    "series_id": "XTEXVA01CNM657S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for China"
+  },
+  {
+    "series_id": "MANMM101USQ189S",
+    "name": "Monetary Aggregates and Their Components: Narrow Money and Components: M1 and Components: M1 for United States"
+  },
+  {
+    "series_id": "MANMM101USQ657S",
+    "name": "Monetary Aggregates and Their Components: Narrow Money and Components: M1 and Components: M1 for United States"
+  },
+  {
+    "series_id": "AUSCPIALLQINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Australia"
+  },
+  {
+    "series_id": "XTEXVA01CNA667S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for China"
+  },
+  {
+    "series_id": "XTEXVA01CNQ657S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for China"
+  },
+  {
+    "series_id": "XTEXVA01CNQ664S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for China"
+  },
+  {
+    "series_id": "NA000347Q",
+    "name": "Personal Consumption Expenditures: Goods"
+  },
+  {
+    "series_id": "NC000347Q",
+    "name": "Personal Consumption Expenditures: Goods"
+  },
+  {
+    "series_id": "XTEXVA01CNQ659S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for China"
+  },
+  {
+    "series_id": "XTEXVA01CNA664S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for China"
+  },
+  {
+    "series_id": "XTEXVA01CNA659S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for China"
+  },
+  {
+    "series_id": "XTEXVA01CNA667N",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for China"
+  },
+  {
+    "series_id": "XTEXVA01CNA657S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for China"
+  },
+  {
+    "series_id": "LMUNRRTTDEM156S",
+    "name": "Infra-Annual Registered Unemployment and Job Vacancies: Total Economy: Registered Unemployment for Germany"
+  },
+  {
+    "series_id": "IIPUSNETIA",
+    "name": "U.S. Net International Investment Position"
+  },
+  { 
+    "series_id": "JHGDPBRINDX", 
+    "name": "GDP-Based Recession Indicator Index" 
+  },
+  {
+    "series_id": "GBRCPALTT01IXNBM",
+    "name": "Consumer Price Index: All Items: Total for United Kingdom"
+  },
+  {
+    "series_id": "CPALTT01AUQ657N",
+    "name": "Consumer Price Index: All Items: Total for Australia"
+  },
+  {
+    "series_id": "GBRCPALTT01IXNBQ",
+    "name": "Consumer Price Index: All Items: Total for United Kingdom"
+  },
+  {
+    "series_id": "SPASTT01USQ661N",
+    "name": "Financial Market: Share Prices for United States"
+  },
+  {
+    "series_id": "CPALTT01TRQ657N",
+    "name": "Consumer Price Index: All Items: Total for Turkey"
+  },
+  {
+    "series_id": "CPALTT01MXQ657N",
+    "name": "Consumer Price Index: All Items: Total for Mexico"
+  },
+  {
+    "series_id": "CPALTT01MXM659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Mexico"
+  },
+  {
+    "series_id": "A019RX1A020NBEA",
+    "name": "Real net exports of goods and services"
+  },
+  {
+    "series_id": "CPALTT01AUA657N",
+    "name": "Consumer Price Index: All Items: Total for Australia"
+  },
+  {
+    "series_id": "CPALTT01TRA657N",
+    "name": "Consumer Price Index: All Items: Total for Turkey"
+  },
+  {
+    "series_id": "CPALTT01TRM657N",
+    "name": "Consumer Price Index: All Items: Total for Turkey"
+  },
+  {
+    "series_id": "CPALTT01TRM659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Turkiye"
+  },
+  {
+    "series_id": "CPALTT01MXM657N",
+    "name": "Consumer Price Index: All Items: Total for Mexico"
+  },
+  {
+    "series_id": "CPALTT01MXA657N",
+    "name": "Consumer Price Index: All Items: Total for Mexico"
+  },
+  {
+    "series_id": "TURCPIALLQINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Turkiye"
+  },
+  {
+    "series_id": "DPCERY2A224NBEA",
+    "name": "Contributions to percent change in real gross domestic product: Personal consumption expenditures"
+  },
+  {
+    "series_id": "SPASTT01USQ657N",
+    "name": "Share Prices: All Shares/Broad: Total for United States"
+  },
+  {
+    "series_id": "STICKCPIM159SFRBATL",
+    "name": "Sticky Price Consumer Price Index"
+  },
+  {
+    "series_id": "MEXCPIALLQINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Mexico"
+  },
+  {
+    "series_id": "TURCPIALLAINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Turkiye"
+  },
+  {
+    "series_id": "CPALTT01TRQ659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Turkiye"
+  },
+  {
+    "series_id": "NGMP16980",
+    "name": "Total Gross Domestic Product for Chicago-Naperville-Elgin, IL-IN-WI (MSA)"
+  },
+  {
+    "series_id": "NGMP29820",
+    "name": "Total Gross Domestic Product for Las Vegas-Henderson-Paradise, NV (MSA)"
+  },
+  {
+    "series_id": "CPALTT01MXQ659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Mexico"
+  },
+  {
+    "series_id": "SPASTT01USA657N",
+    "name": "Share Prices: All Shares/Broad: Total for United States"
+  },
+  {
+    "series_id": "AUSCPIALLAINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Australia"
+  },
+  {
+    "series_id": "SPASTT01USA661N",
+    "name": "Financial Market: Share Prices for United States"
+  },
+  {
+    "series_id": "MEXCPIALLAINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Mexico"
+  },
+  {
+    "series_id": "CPALTT01AUA659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Australia"
+  },
+  {
+    "series_id": "LMUNRRTTDEQ156S",
+    "name": "Infra-Annual Registered Unemployment and Job Vacancies: Total Economy: Registered Unemployment for Germany"
+  },
+  {
+    "series_id": "CHNCPALTT01IXNBM",
+    "name": "Consumer Price Index: All Items: Total for China"
+  },
+  {
+    "series_id": "ND000374Q",
+    "name": "Real Net Exports of Goods and Services"
+  },
+  {
+    "series_id": "GNPDEF",
+    "name": "Gross National Product: Implicit Price Deflator"
+  },
+  {
+    "series_id": "CPALTT01MXA659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Mexico"
+  },
+  {
+    "series_id": "CPALTT01TRA659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Turkiye"
+  },
+  {
+    "series_id": "FLNGSP",
+    "name": "Gross Domestic Product: All Industry Total in Florida"
+  },
+  {
+    "series_id": "CPALCY01CAA661N",
+    "name": "Consumer Price Index: All Items: City: Total for Canada"
+  },
+  {
+    "series_id": "ZAFCPIALLMINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for South Africa"
+  },
+  {
+    "series_id": "CPALCY01CAQ661N",
+    "name": "Consumer Price Index: All Items: City: Total for Canada"
+  },
+  {
+    "series_id": "RTFPNAUSA632NRUG",
+    "name": "Total Factor Productivity at Constant National Prices for United States"
+  },
+  {
+    "series_id": "CHNCPALTT01IXNBQ",
+    "name": "Consumer Price Index: All Items: Total for China"
+  },
+  {
+    "series_id": "FLNQGSP",
+    "name": "Gross Domestic Product: All Industry Total in Florida"
+  },
+  {
+    "series_id": "IRLTLT01ITQ156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Italy"
+  },
+  {
+    "series_id": "STICKCPIM679SFRBATL",
+    "name": "Sticky Price Consumer Price Index"
+  },
+  {
+    "series_id": "IR3TTS01CNM156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Treasury Securities: Total for China"
+  },
+  {
+    "series_id": "IRLTLT01FRA156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for France"
+  },
+  {
+    "series_id": "IRLTLT01ITA156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Italy"
+  },
+  {
+    "series_id": "DPCCRC1A027NBEA",
+    "name": "Personal consumption expenditures excluding food and energy"
+  },
+  {
+    "series_id": "DPCCRC1Q027SBEA",
+    "name": "Personal consumption expenditures excluding food and energy"
+  },
+  {
+    "series_id": "STICKCPIM158SFRBATL",
+    "name": "Sticky Price Consumer Price Index"
+  },
+  {
+    "series_id": "LMUNRRTTDEA156N",
+    "name": "Infra-Annual Registered Unemployment and Job Vacancies: Total Economy: Registered Unemployment for Germany"
+  },
+  {
+    "series_id": "LMUNRRTTDEA156S",
+    "name": "Infra-Annual Registered Unemployment and Job Vacancies: Total Economy: Registered Unemployment for Germany"
+  },
+  {
+    "series_id": "W790RC1A027NBEA",
+    "name": "Net domestic investment: Private: Domestic business"
+  },
+  {
+    "series_id": "IR3TIB01GBQ156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for United Kingdom"
+  },
+  {
+    "series_id": "LMUNRRTTDEM156N",
+    "name": "Infra-Annual Registered Unemployment and Job Vacancies: Total Economy: Registered Unemployment for Germany"
+  },
+  {
+    "series_id": "IR3TIB01EZA156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "IR3TIB01EZQ156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "IR3TIB01GBA156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for United Kingdom"
+  },
+  {
+    "series_id": "IRLTLT01FRQ156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for France"
+  },
+  { 
+    "series_id": "A927RC1A027NBEA", 
+    "name": "Gross government saving" 
+  },
+  {
+    "series_id": "NGMP19100",
+    "name": "Total Gross Domestic Product for Dallas-Fort Worth-Arlington, TX (MSA)"
+  },
+  {
+    "series_id": "A466RD3A052NBEA",
+    "name": "Profit per unit of real gross value added of nonfinancial corporate business: Corporate profits after tax with IVA and CCAdj (unit profits from current production)"
+  },
+  {
+    "series_id": "A074RC1Q027SBEA",
+    "name": "Federal government current tax receipts: Personal current taxes"
+  },
+  {
+    "series_id": "LMUNRRTTDEQ156N",
+    "name": "Infra-Annual Registered Unemployment and Job Vacancies: Total Economy: Registered Unemployment for Germany"
+  },
+  {
+    "series_id": "C307RX1Q020SBEA",
+    "name": "Real private fixed investment: Nonresidential: Structures: Manufacturing"
+  },
+  {
+    "series_id": "CPALTT01ZAM657N",
+    "name": "Consumer Price Index: All Items: Total for South Africa"
+  },
+  {
+    "series_id": "CPALTT01ZAM659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for South Africa"
+  },
+  {
+    "series_id": "A019RE1Q156NBEA",
+    "name": "Shares of gross domestic product: Net exports of goods and services"
+  },
+  {
+    "series_id": "A001RI1A225NBEA",
+    "name": "Gross National Product: Implicit Price Deflator"
+  },
+  {
+    "series_id": "CPALTT01ZAQ657N",
+    "name": "Consumer Price Index: All Items: Total for South Africa"
+  },
+  {
+    "series_id": "A001RI1Q225SBEA",
+    "name": "Gross National Product: Implicit Price Deflator"
+  },
+  {
+    "series_id": "CPALTT01ZAA657N",
+    "name": "Consumer Price Index: All Items: Total for South Africa"
+  },
+  {
+    "series_id": "IRSTCB01JPM156N",
+    "name": "Interest Rates: Immediate Rates (< 24 Hours): Central Bank Rates: Total for Japan"
+  },
+  {
+    "series_id": "ZAFCPIALLQINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for South Africa"
+  },
+  {
+    "series_id": "A019RE1A156NBEA",
+    "name": "Shares of gross domestic product: Net exports of goods and services"
+  },
+  {
+    "series_id": "KORCPIALLMINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Korea"
+  },
+  {
+    "series_id": "LRAC25MAUSM156S",
+    "name": "Infra-Annual Labor Statistics: Labor Force Participation Rate Male: From 25 to 54 Years for United States"
+  },
+  { 
+    "series_id": "FPI", 
+    "name": "Fixed Private Investment" 
+  },
+  {
+    "series_id": "NGMP33100",
+    "name": "Total Gross Domestic Product for Miami-Fort Lauderdale-West Palm Beach, FL (MSA)"
+  },
+  {
+    "series_id": "NGMP41860",
+    "name": "Total Gross Domestic Product for San Francisco-Oakland-Hayward, CA (MSA)"
+  },
+  {
+    "series_id": "GDPCTPI",
+    "name": "Gross Domestic Product: Chain-type Price Index"
+  },
+  { 
+    "series_id": "CAPCPI", 
+    "name": "Per Capita Personal Income in California" 
+  },
+  {
+    "series_id": "CPROFIT",
+    "name": "Corporate Profits with Inventory Valuation Adjustment (IVA) and Capital Consumption Adjustment (CCAdj)"
+  },
+  {
+    "series_id": "NGMP35620",
+    "name": "Total Gross Domestic Product for New York-Newark-Jersey City, NY-NJ-PA (MSA)"
+  },
+  {
+    "series_id": "ZAFCPIALLAINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for South Africa"
+  },
+  {
+    "series_id": "CPALTT01ZAQ659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for South Africa"
+  },
+  {
+    "series_id": "IRLTLT01AUM156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Australia"
+  },
+  {
+    "series_id": "IR3TIB01JPM156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Japan"
+  },
+  { 
+    "series_id": "GSAVE", 
+    "name": "Gross Saving" 
+  },
+  {
+    "series_id": "CPALTT01ZAA659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for South Africa"
+  },
+  {
+    "series_id": "MANMM101EZM189S",
+    "name": "Monetary Aggregates and Their Components: Narrow Money and Components: M1 and Components: M1 for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "CCUSMA02RUM618N",
+    "name": "Currency Conversions: US Dollar Exchange Rate: Average of Daily Rates: National Currency: USD for Russia"
+  },
+  {
+    "series_id": "IR3TTS01CNQ156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Treasury Securities: Total for China"
+  },
+  {
+    "series_id": "KORCPIALLQINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Korea"
+  },
+  {
+    "series_id": "JPNCPALTT01IXNBM",
+    "name": "Consumer Price Index: All Items: Total for Japan"
+  },
+  {
+    "series_id": "JPNCPALTT01IXNBQ",
+    "name": "Consumer Price Index: All Items: Total for Japan"
+  },
+  {
+    "series_id": "C307RL1Q225SBEA",
+    "name": "Real Private Fixed Investment: Nonresidential: Structures: Manufacturing"
+  },
+  {
+    "series_id": "LABSHPUSA156NRUG",
+    "name": "Share of Labour Compensation in GDP at Current National Prices for United States"
+  },
+  {
+    "series_id": "ACTLISCOUCA",
+    "name": "Housing Inventory: Active Listing Count in California"
+  },
+  {
+    "series_id": "CPALTT01KRQ657N",
+    "name": "Consumer Price Index: All Items: Total for Korea"
+  },
+  {
+    "series_id": "CPALTT01KRM657N",
+    "name": "Consumer Price Index: All Items: Total for Korea"
+  },
+  {
+    "series_id": "IR3TTS01CNA156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Treasury Securities: Total for China"
+  },
+  {
+    "series_id": "CPALTT01KRM659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Korea"
+  },
+  {
+    "series_id": "CPALTT01KRA657N",
+    "name": "Consumer Price Index: All Items: Total for Korea"
+  },
+  {
+    "series_id": "EMVOVERALLEMV",
+    "name": "Equity Market Volatility Tracker: Overall"
+  },
+  {
+    "series_id": "A074RC1A027NBEA",
+    "name": "Federal government current tax receipts: Personal current taxes"
+  },
+  {
+    "series_id": "C307RL1A225NBEA",
+    "name": "Real Private Fixed Investment: Nonresidential: Structures: Manufacturing"
+  },
+  {
+    "series_id": "C307RX1A020NBEA",
+    "name": "Real private fixed investment: Nonresidential: Structures: Manufacturing"
+  },
+  {
+    "series_id": "NA000320Q",
+    "name": "Federal government current tax receipts: Personal current taxes"
+  },
+  {
+    "series_id": "CPALTT01KRQ659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Korea"
+  },
+  {
+    "series_id": "KORCPIALLAINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Korea"
+  },
+  {
+    "series_id": "RPIPCUS",
+    "name": "Real Per Capita Personal Income for United States"
+  },
+  { 
+    "series_id": "NETFI", 
+    "name": "Balance on Current Account, NIPA's" 
+  },
+  {
+    "series_id": "DTENRG3A086NBEA",
+    "name": "Personal consumption expenditures: Services: Housing: Rental of tenant-occupied nonfarm housing (chain-type price index)"
+  },
+  {
+    "series_id": "CPALTT01KRA659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Korea"
+  },
+  {
+    "series_id": "IR3TIB01DEM156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Germany"
+  },
+  {
+    "series_id": "W255RC1Q027SBEA",
+    "name": "Net interest and miscellaneous payments on assets"
+  },
+  {
+    "series_id": "DHLCRC1Q027SBEA",
+    "name": "Personal consumption expenditures: Services: Health care"
+  },
+  {
+    "series_id": "NFCPATAX",
+    "name": "Nonfinancial Corporate Business: Profits After Tax (without IVA and CCAdj)"
+  },
+  {
+    "series_id": "IRSTCB01JPQ156N",
+    "name": "Interest Rates: Immediate Rates (< 24 Hours): Central Bank Rates: Total for Japan"
+  },
+  {
+    "series_id": "IRSTCB01JPA156N",
+    "name": "Interest Rates: Immediate Rates (< 24 Hours): Central Bank Rates: Total for Japan"
+  },
+  {
+    "series_id": "MANMM101EZA189N",
+    "name": "Monetary Aggregates and Their Components: Narrow Money and Components: M1 and Components: M1 for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "ACTLISCOU38060",
+    "name": "Housing Inventory: Active Listing Count in Phoenix-Mesa-Scottsdale, AZ (CBSA)"
+  },
+  {
+    "series_id": "MANMM101EZM189N",
+    "name": "Monetary Aggregates and Their Components: Narrow Money and Components: M1 and Components: M1 for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "MANMM101EZQ189N",
+    "name": "Monetary Aggregates and Their Components: Narrow Money and Components: M1 and Components: M1 for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "USAGFCFQDSMEI",
+    "name": "National Accounts: GDP by Expenditure: Current Prices: Gross Fixed Capital Formation for United States"
+  },
+  {
+    "series_id": "M1329AUSM193NNBR",
+    "name": "Yields on Short-Term United States Securities, Three-Six Month Treasury Notes and Certificates, Three Month Treasury Bills for United States"
+  },
+  {
+    "series_id": "M14062USM027NNBR",
+    "name": "Total Gold Reserves of Federal Reserve Banks for United States"
+  },
+  {
+    "series_id": "IRLTLT01AUQ156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Australia"
+  },
+  {
+    "series_id": "IR3TIB01JPQ156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Japan"
+  },
+  {
+    "series_id": "CCUSMA02RUA618N",
+    "name": "Currency Conversions: US Dollar Exchange Rate: Average of Daily Rates: National Currency: USD for Russia"
+  },
+  {
+    "series_id": "CCUSMA02RUQ618N",
+    "name": "Currency Conversions: US Dollar Exchange Rate: Average of Daily Rates: National Currency: USD for Russia"
+  },
+  { 
+    "series_id": "A929RC1A027NBEA", 
+    "name": "Gross saving" 
+  },
+  {
+    "series_id": "IRLTLT01AUA156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Australia"
+  },
+  {
+    "series_id": "IR3TIB01JPA156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Japan"
+  },
+  {
+    "series_id": "INDCPALTT01IXNBM",
+    "name": "Consumer Price Index: All Items: Total for India"
+  },
+  {
+    "series_id": "LRAC25MAUSQ156N",
+    "name": "Infra-Annual Labor Statistics: Labor Force Participation Rate Male: From 25 to 54 Years for United States"
+  },
+  {
+    "series_id": "LRAC25MAUSM156N",
+    "name": "Infra-Annual Labor Statistics: Labor Force Participation Rate Male: From 25 to 54 Years for United States"
+  },
+  {
+    "series_id": "LRAC25MAUSA156N",
+    "name": "Infra-Annual Labor Statistics: Labor Force Participation Rate Male: From 25 to 54 Years for United States"
+  },
+  {
+    "series_id": "LRAC25MAUSA156S",
+    "name": "Infra-Annual Labor Statistics: Labor Force Participation Rate Male: From 25 to 54 Years for United States"
+  },
+  {
+    "series_id": "LRAC25MAUSQ156S",
+    "name": "Infra-Annual Labor Statistics: Labor Force Participation Rate Male: From 25 to 54 Years for United States"
+  },
+  {
+    "series_id": "MANMM101EZM657S",
+    "name": "Monetary Aggregates and Their Components: Narrow Money and Components: M1 and Components: M1 for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "MANMM101EZQ189S",
+    "name": "Monetary Aggregates and Their Components: Narrow Money and Components: M1 and Components: M1 for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "MANMM101EZQ657S",
+    "name": "Monetary Aggregates and Their Components: Narrow Money and Components: M1 and Components: M1 for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "MANMM101EZA657S",
+    "name": "Monetary Aggregates and Their Components: Narrow Money and Components: M1 and Components: M1 for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "MANMM101EZA189S",
+    "name": "Monetary Aggregates and Their Components: Narrow Money and Components: M1 and Components: M1 for Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "W273RE1A156NBEA",
+    "name": "Shares of gross domestic income: Corporate profits with inventory valuation and capital consumption adjustments, domestic industries: Profits after tax with inventory valuation and capital consumption adjustments"
+  },
+  {
+    "series_id": "SLEXPND",
+    "name": "State and Local Government Current Expenditures"
+  },
+  {
+    "series_id": "INDCPALTT01IXNBQ",
+    "name": "Consumer Price Index: All Items: Total for India"
+  },
+  {
+    "series_id": "W019RCQ027SBEA",
+    "name": "Federal government total expenditures"
+  },
+  {
+    "series_id": "A466RC1A027NBEA",
+    "name": "Nonfinancial corporate business: Profits after tax (without IVA and CCAdj)"
+  },
+  {
+    "series_id": "IDNCPIALLMINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Indonesia"
+  },
+  {
+    "series_id": "MEDLISPRIPERSQUFEEUS",
+    "name": "Housing Inventory: Median Listing Price per Square Feet in the United States"
+  },
+  {
+    "series_id": "CRESTKCPIXSLTRM159SFRBATL",
+    "name": "Sticky Price Consumer Price Index less Food, Energy, and Shelter"
+  },
+  {
+    "series_id": "W255RC1A027NBEA",
+    "name": "Net interest and miscellaneous payments on assets"
+  },
+  {
+    "series_id": "DHLCRC1A027NBEA",
+    "name": "Personal consumption expenditures: Services: Health care"
+  },
+  {
+    "series_id": "M09075USM476NNBR",
+    "name": "Nonfarm Real Estate Foreclosures for United States"
+  },
+  {
+    "series_id": "SLRTTO01USQ661S",
+    "name": "Sales: Retail Trade: Total Retail Trade: Volume for United States"
+  },
+  {
+    "series_id": "LRHUTTTTEZM156S",
+    "name": "Harmonised Unemployment - Monthly Rates: Total: All Persons for the Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "IR3TIB01DEA156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Germany"
+  },
+  {
+    "series_id": "IR3TIB01DEQ156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Germany"
+  },
+  {
+    "series_id": "GGGDTACNA188N",
+    "name": "General government gross debt for China"
+  },
+  {
+    "series_id": "EUROREC",
+    "name": "OECD based Recession Indicators for Euro Area from the Period following the Peak through the Trough"
+  },
+  {
+    "series_id": "NGMP31080",
+    "name": "Total Gross Domestic Product for Los Angeles-Long Beach-Anaheim, CA (MSA)"
+  },
+  {
+    "series_id": "BOPGTB",
+    "name": "Trade Balance: Goods, Balance of Payments Basis"
+  },
+  {
+    "series_id": "A464RC1Q027SBEA",
+    "name": "Nonfinancial corporate business: Profits before tax (without IVA and CCAdj)"
+  },
+  {
+    "series_id": "A014RY2Q224SBEA",
+    "name": "Contributions to percent change in real gross domestic product: Gross private domestic investment: Change in private inventories"
+  },
+  {
+    "series_id": "CPHPLA01EZM661N",
+    "name": "Consumer Price Index: Harmonised Prices: All Items Less Food, Energy, Tobacco, Alcohol: Total for the Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "SLRTTO01USQ657S",
+    "name": "Sales: Retail Trade: Total Retail Trade: Volume for United States"
+  },
+  {
+    "series_id": "DEUCPALTT01IXNBM",
+    "name": "Consumer Price Index: All Items: Total for Germany"
+  },
+  {
+    "series_id": "DEUCPALTT01IXNBQ",
+    "name": "Consumer Price Index: All Items: Total for Germany"
+  },
+  {
+    "series_id": "USAGFCFADSMEI",
+    "name": "National Accounts: GDP by Expenditure: Current Prices: Gross Fixed Capital Formation for United States"
+  },
+  {
+    "series_id": "CPALTT01IDM659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Indonesia"
+  },
+  {
+    "series_id": "LRHUTTTTFRM156S",
+    "name": "Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for France"
+  },
+  {
+    "series_id": "FYPUGDA188S",
+    "name": "Gross Federal Debt Held by the Public as Percent of Gross Domestic Product"
+  },
+  {
+    "series_id": "SLRTTO01USQ659S",
+    "name": "Sales: Retail Trade: Total Retail Trade: Volume for United States"
+  },
+  {
+    "series_id": "W019RC1A027NBEA",
+    "name": "Federal government total expenditures"
+  },
+  { 
+    "series_id": "GNPC96", 
+    "name": "Real Gross National Product" 
+  },
+  {
+    "series_id": "CRESTKCPIXSLTRM679SFRBATL",
+    "name": "Sticky Price Consumer Price Index less Food, Energy, and Shelter"
+  },
+  {
+    "series_id": "CPALTT01IDM657N",
+    "name": "Consumer Price Index: All Items: Total for Indonesia"
+  },
+  {
+    "series_id": "CPALTT01IDQ657N",
+    "name": "Consumer Price Index: All Items: Total for Indonesia"
+  },
+  {
+    "series_id": "LAUTOSA",
+    "name": "Motor Vehicle Retail Sales: Domestic and Foreign Autos"
+  },
+  {
+    "series_id": "M1329BUSM193NNBR",
+    "name": "Yields on Short-Term United States Securities, Three-Six Month Treasury Notes and Certificates, Three Month Treasury Bills for United States"
+  },
+  {
+    "series_id": "CPALTT01IDA657N",
+    "name": "Consumer Price Index: All Items: Total for Indonesia"
+  },
+  {
+    "series_id": "SLRTTO01USA657S",
+    "name": "Sales: Retail Trade: Total Retail Trade: Volume for United States"
+  },
+  {
+    "series_id": "IDNCPIALLQINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Indonesia"
+  },
+  {
+    "series_id": "LAUTONSA",
+    "name": "Motor Vehicle Retail Sales: Domestic and Foreign Autos"
+  },
+  {
+    "series_id": "NA000284Q",
+    "name": "State and local government current expenditures"
+  },
+  {
+    "series_id": "ASLEXPND",
+    "name": "State and Local Government Current Expenditures"
+  },
+  {
+    "series_id": "SLRTTO01USA659S",
+    "name": "Sales: Retail Trade: Total Retail Trade: Volume for United States"
+  },
+  {
+    "series_id": "IDNCPIALLAINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Indonesia"
+  },
+  {
+    "series_id": "CPALTT01IDQ659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Indonesia"
+  },
+  {
+    "series_id": "VAPGDPFI",
+    "name": "Value Added by Industry: Finance, Insurance, Real Estate, Rental, and Leasing: Finance and Insurance as a Percentage of GDP"
+  },
+  {
+    "series_id": "EURORECD",
+    "name": "OECD based Recession Indicators for Euro Area from the Period following the Peak through the Trough"
+  },
+  {
+    "series_id": "CPALTT01IDA659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Indonesia"
+  },
+  {
+    "series_id": "IR3TIB01CAM156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Canada"
+  },
+  {
+    "series_id": "LRHUTTTTEZQ156S",
+    "name": "Harmonised Unemployment - Monthly Rates: Total: All Persons for the Euro Area (19 Countries)"
+  },
+  { 
+    "series_id": "GNPCA", 
+    "name": "Real Gross National Product" 
+  },
+  {
+    "series_id": "W823RC1",
+    "name": "Personal current transfer receipts: Government social benefits to persons: Social security"
+  },
+  {
+    "series_id": "CPHPLA01EZA661N",
+    "name": "Consumer Price Index: Harmonised Prices: All Items Less Food, Energy, Tobacco, Alcohol: Total for the Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "CCUSMA02TRM618N",
+    "name": "Currency Conversions: US Dollar Exchange Rate: Average of Daily Rates: National Currency: USD for Turkey"
+  },
+  { 
+    "series_id": "A001RO1Q156NBEA", 
+    "name": "Real Gross National Product" 
+  },
+  {
+    "series_id": "LRHUTTTTEZA156S",
+    "name": "Harmonised Unemployment - Monthly Rates: Total: All Persons for the Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "LRHUTTTTEZA156N",
+    "name": "Harmonised Unemployment - Monthly Rates: Total: All Persons for the Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "LRHUTTTTEZM156N",
+    "name": "Harmonised Unemployment - Monthly Rates: Total: All Persons for the Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "LRHUTTTTEZQ156N",
+    "name": "Harmonised Unemployment - Monthly Rates: Total: All Persons for the Euro Area (19 Countries)"
+  },
+  {
+    "series_id": "LRHUTTTTFRM156N",
+    "name": "Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for France"
+  },
+  {
+    "series_id": "ACTLISCOU12420",
+    "name": "Housing Inventory: Active Listing Count in Austin-Round Rock, TX (CBSA)"
+  },
+  {
+    "series_id": "LRHUTTTTFRQ156S",
+    "name": "Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for France"
+  },
+  {
+    "series_id": "LRHUTTTTFRA156S",
+    "name": "Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for France"
+  },
+  {
+    "series_id": "LRHUTTTTFRA156N",
+    "name": "Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for France"
+  },
+  { 
+    "series_id": "A001RL1A225NBEA",
+    "name": "Real Gross National Product"
+  },
+  { 
+    "series_id": "A001RL1Q225SBEA",
+    "name": "Real Gross National Product"
+  },
+  {
+    "series_id": "CRESTKCPIXSLTRM158SFRBATL",
+    "name": "Sticky Price Consumer Price Index less Food, Energy, and Shelter"
+  },
+  {
+    "series_id": "KORLOLITONOSTSAM",
+    "name": "Composite Leading Indicators: Composite Leading Indicator (CLI) Normalized for Korea"
+  },
+  {
+    "series_id": "M08343USM232SNBR",
+    "name": "Real Average Hourly Earnings, Production Workers, Manufacturing for United States"
+  },
+  {
+    "series_id": "A464RC1A027NBEA",
+    "name": "Nonfinancial corporate business: Profits before tax (without IVA and CCAdj)"
+  },
+  {
+    "series_id": "A014RY2A224NBEA",
+    "name": "Contributions to percent change in real gross domestic product: Gross private domestic investment: Change in private inventories"
+  },
+  {
+    "series_id": "CRESTKCPIXSLTRM157SFRBATL",
+    "name": "Sticky Price Consumer Price Index less Food, Energy, and Shelter"
+  },
+  {
+    "series_id": "LRHUTTTTFRQ156N",
+    "name": "Infra-Annual Labor Statistics: Monthly Unemployment Rate Total: 15 Years or over for France"
+  },
+  {
+    "series_id": "VAPGDPC",
+    "name": "Value Added by Industry: Construction as a Percentage of GDP"
+  },
+  {
+    "series_id": "LREM25TTUSM156S",
+    "name": "Infra-Annual Labor Statistics: Employment Rate Total: From 25 to 54 Years for United States"
+  },
+  {
+    "series_id": "NGMP26420",
+    "name": "Total Gross Domestic Product for Houston-The Woodlands-Sugar Land, TX (MSA)"
+  },
+  {
+    "series_id": "DNRGRC1M027SBEA",
+    "name": "Personal consumption expenditures: Energy goods and services"
+  },
+  {
+    "series_id": "BOPTEXP",
+    "name": "Exports of Goods and Services, Balance of Payments Basis"
+  },
+  {
+    "series_id": "NGMP12420",
+    "name": "Total Gross Domestic Product for Austin-Round Rock, TX (MSA)"
+  },
+  {
+    "series_id": "W270RE1A156NBEA",
+    "name": "Shares of gross domestic income: Compensation of employees, paid: Wage and salary accruals: Disbursements: to persons"
+  },
+  {
+    "series_id": "NAEXKP01GBQ652S",
+    "name": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product: Total for United Kingdom"
+  },
+  {
+    "series_id": "CCUSMA02TRM661N",
+    "name": "Currency Conversions: US Dollar Exchange Rate: Average of Daily Rates: National Currency: USD for Turkey"
+  },
+  {
+    "series_id": "CCUSMA02TRM659N",
+    "name": "Currency Conversions: US Dollar Exchange Rate: Average of Daily Rates: National Currency: USD for Turkey"
+  },
+  {
+    "series_id": "XTEXVA01KRM667S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for Korea"
+  },
+  {
+    "series_id": "RKNANPUSA666NRUG",
+    "name": "Capital Stock at Constant National Prices for United States"
+  },
+  { 
+    "series_id": "TTLHHM156N",
+    "name": "Household Estimates" 
+  },
+  {
+    "series_id": "CCUSMA02TRA618N",
+    "name": "Currency Conversions: US Dollar Exchange Rate: Average of Daily Rates: National Currency: USD for Turkey"
+  },
+  {
+    "series_id": "CCUSMA02TRQ618N",
+    "name": "Currency Conversions: US Dollar Exchange Rate: Average of Daily Rates: National Currency: USD for Turkey"
+  },
+  {
+    "series_id": "ACTLISCOU12086",
+    "name": "Housing Inventory: Active Listing Count in Miami-Dade County, FL"
+  },
+  {
+    "series_id": "ACTLISCOU6073",
+    "name": "Housing Inventory: Active Listing Count in San Diego County, CA"
+  },
+  {
+    "series_id": "PRMNTO01USQ657S",
+    "name": "Production: Manufacturing: Total Manufacturing for United States"
+  },
+  {
+    "series_id": "W823RC1Q027SBEA",
+    "name": "Personal current transfer receipts: Government social benefits to persons: Social security"
+  },
+  {
+    "series_id": "W823RC1A027NBEA",
+    "name": "Personal current transfer receipts: Government social benefits to persons: Social security"
+  },
+  {
+    "series_id": "IR3TIB01CAQ156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Canada"
+  },
+  {
+    "series_id": "CHNLORSGPNOSTSAM",
+    "name": "Composite Leading Indicators: Reference Series (GDP) Normalized for China"
+  },
+  {
+    "series_id": "CPALTT01ESM657N",
+    "name": "Consumer Price Index: All Items: Total for Spain"
+  },
+  {
+    "series_id": "PRMNTO01USA657S",
+    "name": "Production: Manufacturing: Total Manufacturing for United States"
+  },
+  {
+    "series_id": "IR3TIB01CAA156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Interbank Rates: Total for Canada"
+  },
+  {
+    "series_id": "M0263AUSM500NNBR",
+    "name": "Existing Home Mortgage Applications for United States"
+  },
+  {
+    "series_id": "CPALTT01CHM657N",
+    "name": "Consumer Price Index: All Items: Total for Switzerland"
+  },
+  {
+    "series_id": "NAEXKP01GBA652S",
+    "name": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product: Total for United Kingdom"
+  },
+  {
+    "series_id": "ESPCPIALLMINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Spain"
+  },
+  { 
+    "series_id": "HLTHSCPCHCSA",
+    "name": "Health Expenditures per Capita" 
+  },
+  {
+    "series_id": "L312041A027NBEA",
+    "name": "Government subsidies: Federal: Agricultural"
+  },
+  {
+    "series_id": "DPCCRAM1M225NBEA",
+    "name": "Real Personal Consumption Expenditures: PCE excluding food and energy"
+  },
+  {
+    "series_id": "BOPTIMP",
+    "name": "Imports of Goods and Services: Balance of Payments Basis"
+  },
+  {
+    "series_id": "IRLTLT01CHM156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Switzerland"
+  },
+  {
+    "series_id": "A4102C1Q027SBEA",
+    "name": "Gross domestic income: Compensation of employees, paid: Wages and salaries"
+  },
+  {
+    "series_id": "DSERRG3M086SBEA",
+    "name": "Personal consumption expenditures: Services (chain-type price index)"
+  },
+  {
+    "series_id": "NAEXKP01GBQ661S",
+    "name": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product: Total for United Kingdom"
+  },
+  {
+    "series_id": "IRLTLT01ESM156N",
+    "name": "Interest Rates: Long-Term Government Bond Yields: 10-Year: Main (Including Benchmark) for Spain"
+  },
+  {
+    "series_id": "MANMM101GBM189S",
+    "name": "Monetary Aggregates and Their Components: Narrow Money and Components: M1 and Components: M1 for United Kingdom"
+  },
+  { 
+    "series_id": "IEABCP",
+    "name": "Balance on capital account"
+ },
+  {
+    "series_id": "Y033RX1Q020SBEA",
+    "name": "Real Gross Private Domestic Investment: Fixed Investment: Nonresidential: Equipment"
+  },
+  {
+    "series_id": "CHECPIALLMINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Switzerland"
+  },
+  {
+    "series_id": "CHECPIALLQINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Switzerland"
+  },
+  {
+    "series_id": "IRSTCI01JPM156N",
+    "name": "Interest Rates: Immediate Rates (< 24 Hours): Call Money/Interbank Rate: Total for Japan"
+  },
+  {
+    "series_id": "LFWA25TTUSM647N",
+    "name": "Infra-Annual Labor Statistics: Working-Age Population Total: From 25 to 54 Years for United States"
+  },
+  {
+    "series_id": "NAEXKP01GBQ657S",
+    "name": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product: Total for United Kingdom"
+  },
+  {
+    "series_id": "LREM25MAUSA156S",
+    "name": "Infra-Annual Labor Statistics: Employment Rate Male: From 25 to 54 Years for United States"
+  },
+  {
+    "series_id": "CPALTT01ESA657N",
+    "name": "Consumer Price Index: All Items: Total for Spain"
+  },
+  {
+    "series_id": "CPALTT01ESQ657N",
+    "name": "Consumer Price Index: All Items: Total for Spain"
+  },
+  {
+    "series_id": "CPALTT01CHA657N",
+    "name": "Consumer Price Index: All Items: Total for Switzerland"
+  },
+  {
+    "series_id": "XTEXVA01KRQ667N",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for Korea"
+  },
+  {
+    "series_id": "CPALTT01CHQ657N",
+    "name": "Consumer Price Index: All Items: Total for Switzerland"
+  },
+  {
+    "series_id": "NAEXKP01GBA661S",
+    "name": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product: Total for United Kingdom"
+  },
+  {
+    "series_id": "CPALTT01ESQ659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Spain"
+  },
+  {
+    "series_id": "XTEXVA01KRM667N",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for Korea"
+  },
+  { 
+    "series_id": "TTLHH", 
+    "name": "Total Households" 
+  },
+  {
+    "series_id": "XTEXVA01KRM659S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for Korea"
+  },
+  {
+    "series_id": "CPALTT01ESM659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Spain"
+  },
+  {
+    "series_id": "NAEXKP01GBA657S",
+    "name": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product: Total for United Kingdom"
+  },
+  {
+    "series_id": "GBRGDPRQPSMEI",
+    "name": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product: Total for United Kingdom"
+  },
+  {
+    "series_id": "IR3TCD01KRM156N",
+    "name": "Interest Rates: 3-Month or 90-Day Rates and Yields: Certificates of Deposit: Total for Korea"
+  },
+  {
+    "series_id": "CPALTT01CHM659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Switzerland"
+  },
+  {
+    "series_id": "GBRGDPRAPSMEI",
+    "name": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product: Total for United Kingdom"
+  },
+  {
+    "series_id": "SWECPIALLMINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Sweden"
+  },
+  {
+    "series_id": "DNRGRC1Q027SBEA",
+    "name": "Personal consumption expenditures: Energy goods and services"
+  },
+  {
+    "series_id": "ESPCPIALLQINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Spain"
+  },
+  {
+    "series_id": "ESPCPIALLAINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Spain"
+  },
+  {
+    "series_id": "XTEXVA01KRM657S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for Korea"
+  },
+  {
+    "series_id": "XTEXVA01KRA667N",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for Korea"
+  },
+  {
+    "series_id": "XTEXVA01KRM664S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for Korea"
+  },
+  {
+    "series_id": "XTEXVA01KRQ188S",
+    "name": "International Trade: Exports: Value (Goods): Total for Korea"
+  },
+  {
+    "series_id": "XTEXVA01KRQ664S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for Korea"
+  },
+  {
+    "series_id": "CPALTT01CHQ659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Switzerland"
+  },
+  {
+    "series_id": "CHECPIALLAINMEI",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Switzerland"
+  },
+  {
+    "series_id": "DNRGRC1A027NBEA",
+    "name": "Personal consumption expenditures: Energy goods and services"
+  },
+  {
+    "series_id": "USALOLITOAASTSAM",
+    "name": "Leading Indicators OECD: Leading Indicators: Composite Leading Indicator: Amplitude Adjusted for United States"
+  },
+  {
+    "series_id": "CPALTT01ESA659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Spain"
+  },
+  {
+    "series_id": "LREM25TTUSM156N",
+    "name": "Infra-Annual Labor Statistics: Employment Rate Total: From 25 to 54 Years for United States"
+  },
+  {
+    "series_id": "LREM25TTUSQ156S",
+    "name": "Infra-Annual Labor Statistics: Employment Rate Total: From 25 to 54 Years for United States"
+  },
+  {
+    "series_id": "LREM25TTUSA156N",
+    "name": "Infra-Annual Labor Statistics: Employment Rate Total: From 25 to 54 Years for United States"
+  },
+  {
+    "series_id": "LREM25TTUSA156S",
+    "name": "Infra-Annual Labor Statistics: Employment Rate Total: From 25 to 54 Years for United States"
+  },
+  {
+    "series_id": "LREM25TTUSQ156N",
+    "name": "Infra-Annual Labor Statistics: Employment Rate Total: From 25 to 54 Years for United States"
+  },
+  {
+    "series_id": "XTEXVA01KRA657S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for Korea"
+  },
+  {
+    "series_id": "XTEXVA01KRQ667S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for Korea"
+  },
+  {
+    "series_id": "XTEXVA01KRA667S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for Korea"
+  },
+  {
+    "series_id": "XTEXVA01KRA659S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for Korea"
+  },
+  {
+    "series_id": "XTEXVA01KRQ659S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for Korea"
+  },
+  {
+    "series_id": "XTEXVA01KRA664S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for Korea"
+  },
+  {
+    "series_id": "XTEXVA01KRA188S",
+    "name": "International Trade: Exports: Value (Goods): Total for Korea"
+  },
+  {
+    "series_id": "XTEXVA01KRQ657S",
+    "name": "International Merchandise Trade Statistics: Exports: Commodities for Korea"
+  },
+  {
+    "series_id": "CPALTT01CHA659N",
+    "name": "Consumer Price Indices (CPIs, HICPs), COICOP 1999: Consumer Price Index: Total for Switzerland"
+  },
+  {
+    "series_id": "CCUSSP02IDM650N",
+    "name": "Currency Conversions: US Dollar Exchange Rate: Spot, End of Period: National Currency: USD for Indonesia"
+  },
+  { 
+    "series_id": "GOMA", 
+    "name": "Gross Output by Industry: Manufacturing" 
+  },
+  {
+    "series_id": "LREM25MAUSM156S",
+    "name": "Infra-Annual Labor Statistics: Employment Rate Male: From 25 to 54 Years for United States"
+  },
+  {
+    "series_id": "NAEXKP01CAQ189S",
+    "name": "National Accounts: GDP by Expenditure: Constant Prices: Gross Domestic Product: Total for Canada"
+  },
+  {
+    "series_id": "LRAC25FEUSM156S",
+    "name": "Infra-Annual Labor Statistics: Labor Force Participation Rate Female: From 25 to 54 Years for United States"
+  }
+]
