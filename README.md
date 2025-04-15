@@ -1,35 +1,30 @@
 # 📊 Stock Market Data Pipeline and Analytics
 
-An end-to-end **Data Engineering and Analytics** project that simulates a real-world stock market analysis workflow. This project demonstrates how to automate data ingestion, transformation, orchestration, and dashboarding using modern tools like **Dagster**, **dbt**, and **Snowflake**.
+A complete end-to-end **Data Engineering + Data Analytics** project that ingests stock market data, processes it using a modern data stack (Snowflake, dbt, Dagster), and visualizes insights using Power BI.
 
 ---
 
-## 🔍 Project Objective
+## 🚀 Overview
 
-To build a robust and scalable pipeline that:
-- 📥 Ingests stock market data from Yahoo Finance
-- 🛠️ Transforms raw data into analytics-ready models using `dbt`
-- 🎯 Orchestrates workflows using `Dagster` (with scheduled and event-driven jobs)
-- ❄️ Stores curated data in `Snowflake` warehouse
-- 📈 Visualizes key insights using Power BI dashboards
+This project simulates a production-grade stock market data pipeline that integrates data extraction, transformation, orchestration, and reporting.
 
-This project is ideal for:
-- 🚀 Showcasing data engineering & analytics skills
-- 📚 Learning the modern data stack
-- 📊 Creating analytical dashboards for stock market insights
+- 📥 **Ingestion**: Raw stock data from APIs is extracted and loaded into Snowflake.
+- 🔄 **Transformation**: dbt models are used to clean, enrich, and structure data into analytics-ready tables.
+- 📅 **Orchestration**: Dagster handles job scheduling and dependencies between ingestion and transformation tasks.
+- 📊 **Analytics**: Power BI dashboards provide actionable insights on stock performance.
 
 ---
 
 ## 🧱 Tech Stack
 
-| Layer             | Toolset                            |
-|------------------|-------------------------------------|
-| Data Ingestion    | `pandas`, `Snowflake Connector`, `Dagster` |
-| Data Transformation | `dbt Core`, `SQL`, `Jinja`       |
-| Orchestration     | `Dagster` (jobs, sensors, schedules)|
-| Data Warehouse    | `Snowflake`                        |
-| Visualization     | `Power BI`, `Matplotlib`           |
-| Dev Environment   | `venv`, `requirements.txt`, `Git`  |
+| Layer            | Tools/Tech                                |
+|------------------|--------------------------------------------|
+| Ingestion        | Python, Requests, Pandas                   |
+| Data Warehouse   | ❄️ Snowflake                                |
+| Transformation   | dbt (Data Build Tool)                      |
+| Orchestration    | Dagster                                    |
+| Visualization    | Power BI                                   |
+| Others           | Git, Virtualenv, SQL, Jinja                |
 
 ---
 
@@ -38,70 +33,54 @@ This project is ideal for:
 ```
 📁 Stock-Market-Data-Pipeline-and-Analytics/
 ├── EL/
-│   └── ...               # Scripts for data extraction and loading
+│   └── ...               # Scripts for data extraction and loading into Snowflake
 ├── Reports/
 │   └── ...               # Power BI reports and visualizations
 ├── SnowflakeScripts/
-│   └── ...               # SQL scripts for Snowflake schema and table creation
+│   └── ...               # SQL DDL scripts for Snowflake schemas and tables
 ├── T/
 │   └── finance_analytics/
-│       └── ...           # dbt project: models, seeds, and configurations
+│       └── ...           # dbt project with models, seeds, snapshots
 ├── orchestration/
-│   ├── assets/
-│   │   └── ...           # Python scripts for data ingestion
-│   ├── dbt_assets/
-│   │   └── ...           # dbt asset wrappers for Dagster
+│   ├── assets/           # Dagster Python assets for ingestion
+│   ├── dbt_assets/       # Dagster-wrapped dbt assets
 │   ├── jobs.py           # Dagster job definitions
-│   ├── dbt_sensor.py     # Dagster sensor for triggering dbt
-│   └── definitions.py    # Dagster schedules, jobs, and sensors
+│   ├── dbt_sensor.py     # Sensor to trigger dbt after ingestion
+│   └── definitions.py    # Dagster Definitions, Schedules, Sensors
 ├── .gitignore
-├── README.md
-└── requirements.txt
-
+├── requirements.txt
+└── README.md
 ```
 
 ---
 
-## 🔄 Workflow Overview
+## 🔄 Workflow
 
-1. **Ingestion**  
-   - Stock symbols are defined and passed to the pipeline.
-   - A Dagster job (`data_ingestion_pipeline`) uses Python and the Snowflake connector to:
-     - Create necessary schemas and tables (if they don’t exist).
-     - Pull historical data via Yahoo Finance’s API using `yfinance` or a Python script.
-     - Process and load the data into Snowflake (raw zone).
-   - Data includes: Open, Close, High, Low, Volume, and Date for each stock.
+1. **Ingestion (EL/)**
+   - Scripts fetch historical and live stock data using APIs.
+   - Data is cleaned and loaded into Snowflake.
 
-2. **Transformation**  
-   - dbt models clean, join, and enhance the raw data into analytical layers (staging, marts).
-   - Models calculate KPIs like moving averages, daily changes, and volatility scores.
+2. **Transformation (T/finance_analytics)**
+   - dbt models transform raw data into analytics-ready datasets (e.g. `stg_`, `fct_`, and `dim_` models).
+   - Supports incremental loading and modular SQL.
 
-3. **Orchestration**  
-   - `Dagster` manages orchestration using:
-     - ✅ A daily ingestion schedule at midnight
-     - ✅ A scheduled dbt transformation job at 2 AM
-     - ✅ A sensor that triggers dbt after successful ingestion
+3. **Orchestration (Dagster)**
+   - `data_ingestion_pipeline`: Fetches and loads raw data into Snowflake.
+   - `dbt_transformation_job`: Executes dbt models post ingestion.
+   - Schedule:
+     - Ingestion at **12 AM**
+     - Transformation at **2 AM**
+   - Sensors ensure dependency management.
 
-4. **Visualization**  
-   - Final Snowflake tables are connected to Power BI.
-   - Dashboards show price trends, comparisons, financial KPIs, and change analysis.
-
----
-
-## 📊 Dashboard Preview
-
-Power BI Dashboard includes:
-- Stock price trends (daily, monthly)
-- Moving averages (SMA, EMA)
-- Volume analysis
-- Price volatility and return analysis
-- Company-wise comparisons
-
-> *(See the `dashboards/` folder for Power BI file)*
+4. **Reporting (Reports/)**
+   - Power BI dashboards visualize:
+     - Daily stock performance
+     - Volume and price trends
+     - Technical indicators
 
 ---
 
-## ⚙️ Setup Instructions
+## 🛠️ Setup Instructions
 
 ### 1. Clone the Repository
 
@@ -114,10 +93,10 @@ cd Stock-Market-Data-Pipeline-and-Analytics
 
 ```bash
 python -m venv venv
-source venv/bin/activate   # On Windows: venv\Scripts\activate
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
-### 3. Install Dependencies
+### 3. Install Requirements
 
 ```bash
 pip install -r requirements.txt
@@ -125,70 +104,64 @@ pip install -r requirements.txt
 
 ### 4. Configure Snowflake & dbt
 
-- Create a `.dbt/profiles.yml` file in your user directory.
-- Add Snowflake connection details.
-- Example config available [here](https://docs.getdbt.com/docs/core/connect-data-platform/snowflake).
+- Update `profiles.yml` and `dbt_project.yml` inside the `T/finance_analytics` directory.
+- Ensure Snowflake credentials are securely set.
 
 ### 5. Run Dagster UI
 
 ```bash
-dagster dev
-```
-
-Visit `http://localhost:3000` to view and run pipelines.
-
-### 6. Run dbt Models
-
-```bash
-cd dbt/finance_analytics
-dbt build
+dagster dev -f orchestration/definitions.py
 ```
 
 ---
 
-## ✅ Key Features
+## 📈 Power BI Insights
 
-- ✅ Automated stock data pipeline using modern DE tools
-- ✅ dbt for structured, version-controlled transformations
-- ✅ Dagster sensors and schedules for orchestration
-- ✅ Clean, cloud-based warehouse with Snowflake
-- ✅ Business-ready Power BI dashboards
+The dashboard provides:
 
----
+- Historical price trends (Open, High, Low, Close)
+- Volume spikes
+- Sector-wise analysis
+- Moving averages and volatility metrics
 
-## 🚀 Roadmap
-
-- [ ] Stream real-time data (WebSocket or Kafka)
-- [ ] Add data quality checks (dbt tests + Great Expectations)
-- [ ] Deploy Power BI dashboard online
-- [ ] Add ML-driven price prediction
-- [ ] Build CI/CD workflow for data pipeline
+> Power BI reports are available in the `Reports/` folder.
 
 ---
 
-## 👨‍💻 Author
+## 📅 Schedule and Sensor Logic
+
+- **Daily Ingestion**: `0 0 * * *`
+- **dbt Transformation**: `0 2 * * *`
+- **Sensor**: Triggers transformation only if ingestion succeeds
+
+---
+
+## 🧠 Learning Outcomes
+
+- Hands-on experience with modern data stack
+- Automated pipelines with Dagster
+- dbt transformations and incremental models
+- Building analytical reports using Power BI
+- Real-world data engineering project structure
+
+---
+
+## 📌 Future Enhancements
+
+- Add CI/CD pipeline for dbt
+- Integrate Apache Kafka for streaming data
+- Deploy Dagster on cloud (e.g., ECS or GCP Composer)
+- Schedule alerts for anomalies in stock prices
+
+---
+
+## 🙋‍♂️ Author
 
 **Sidarth Roy**  
-💼 Data Engineer | Intern @ CG Infinity  
-🌐 [LinkedIn](https://www.linkedin.com/in/sidarth-roy-bb77571b8)  
-📂 [GitHub](https://github.com/Sidarth-Roy)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sidarth-roy-bb77571b8/)
 
 ---
 
-## 📄 License
+## ⭐️ If you found this project helpful...
 
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) for details.
-
----
-
-> 💡 *“Automating insights from Wall Street to your screen — one pipeline at a time.”*
-```
-
----
-
-Let me know if you'd like:
-- A visual pipeline diagram (I can generate one!)
-- Help creating a `LICENSE`, `CONTRIBUTING.md`, or GitHub Actions CI/CD
-- Turning this into a portfolio website or blog post!
-
-You've built an awesome project — let's showcase it like one. 🚀
+Give it a ⭐️ and share it with your network!
