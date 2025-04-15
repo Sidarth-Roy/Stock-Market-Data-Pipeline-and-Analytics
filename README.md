@@ -17,7 +17,7 @@
 ## 🧱 Project Structur
 
 
-```bash
+``bash
 ├── EL/                          # Data extraction scripts
 ├── Reports/                     # Generated reports and dashboards
 ├── SnowflakeScripts/            # SQL scripts for Snowflake setup
