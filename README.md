@@ -40,7 +40,7 @@ The pipeline follows a layered data architecture in Snowflake and utilizes autom
 
 ### 📌 Architecture Diagram
 
-![Architecture](https://github.com/Sidarth-Roy/Stock-Market-Data-Pipeline-and-Analytics/blob/main/assets/architecture.png)
+![Architecture](https://github.com/Sidarth-Roy/Stock-Market-Data-Pipeline-and-Analytics/blob/main/assets/Architecture.png)
 
 ---
 
