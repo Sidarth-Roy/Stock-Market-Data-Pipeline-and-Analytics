@@ -36,21 +36,28 @@ This project is ideal for:
 ## 🗂️ Folder Structure
 
 ```
-📁 Stock-Market-Data-Pipeline-and-Analytics
-│
+📁 Stock-Market-Data-Pipeline-and-Analytics/
+├── EL/
+│   └── ...               # Scripts for data extraction and loading
+├── Reports/
+│   └── ...               # Power BI reports and visualizations
+├── SnowflakeScripts/
+│   └── ...               # SQL scripts for Snowflake schema and table creation
+├── T/
+│   └── finance_analytics/
+│       └── ...           # dbt project: models, seeds, and configurations
 ├── orchestration/
-│   ├── assets/              # Ingestion logic for pulling & loading data
-│   ├── dbt_assets/          # dbt asset wrappers for Dagster
-│   ├── jobs.py              # Dagster job definitions
-│   ├── dbt_sensor.py        # Dagster sensor for triggering dbt
-│   └── definitions.py       # All Dagster schedules, jobs, sensors
-│
-├── dbt/
-│   └── finance_analytics/   # dbt models, seeds, and configs
-│
-├── dashboards/              # Power BI dashboards
-├── requirements.txt         # Project dependencies
-└── README.md                # Project documentation
+│   ├── assets/
+│   │   └── ...           # Python scripts for data ingestion
+│   ├── dbt_assets/
+│   │   └── ...           # dbt asset wrappers for Dagster
+│   ├── jobs.py           # Dagster job definitions
+│   ├── dbt_sensor.py     # Dagster sensor for triggering dbt
+│   └── definitions.py    # Dagster schedules, jobs, and sensors
+├── .gitignore
+├── README.md
+└── requirements.txt
+
 ```
 
 ---
